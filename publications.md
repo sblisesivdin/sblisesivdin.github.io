@@ -1,3 +1,5 @@
+[Home](index.md) |[About](about.md) | [Other](other.md) | [Research](research.md) | [Publications](publications.md) | [Workbench](workbench.md) 
+
 > "The heart of science is publication and refutation. The difference between an alchemist and a scientist is that alchemists don't publish their findings..." Cory Doctorow, 2005. (Permalink)
 
 You can find accepted and submitted articles at the [recent studies](workbench.md). Corrigenda and errata are at the bottom of this page. You can post errors to sblisesivdin-AT-gmail.com. The articles are copyrighted (©) by the respective publishers. Please do not hesitate to contact to obtain author copies of the articles.
