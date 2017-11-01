@@ -1,3 +1,4 @@
+[Home](index.md) |[About](about.md) | [Other](other.md) | [Research](research.md) | [Publications](publications.md) | [Workbench](workbench.md) 
 
 ### About
 
