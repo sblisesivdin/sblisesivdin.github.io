@@ -1,5 +1,7 @@
+[Home](index.md) |[About](about.md) | [Other](other.md) | [Research](research.md) | [Publications](publications.md) | [Workbench](workbench.md) 
+
 ## Announcements
-PhD, MSc and BSc positions available! For more information please contact with Dr. Lisesivdin.
+PhD, MSc and BSc positions not available for now. For more information please contact with Dr. Lisesivdin.
 
 ## Older News
 
