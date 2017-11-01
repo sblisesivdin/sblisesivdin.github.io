@@ -6,7 +6,7 @@ layout: default
 
 ### CONTACT INFORMATION
 
-(1) Department of Physics, Gazi University, Ankara, Turkey 06500
+<img align="left" src="files/SeferBoraLisesivdin.jpg">(1) Department of Physics, Gazi University, Ankara, Turkey 06500
 
 Phone: +90 312 202 1391
 
