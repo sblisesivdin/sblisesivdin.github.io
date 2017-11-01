@@ -17,7 +17,7 @@
 * 2011 Received the rank of **Associate Professor** from the Turkish Inter-University Council (UAK).
 * 2013 Fellowship within the TUBITAK 2219 program to University of Essex, UK.
 * 2014 Received the **Turkish Society of Physics Prof. Dr. Sevket Erk Young Scientist Award**
-* 2015 Being father of **Deha Anil Lişesivdin**.
+* 2015 Being father of **Deha Anıl Lişesivdin**.
 * 2015 Received **Senior Member** Status from IEEE.
 * 2016 Received the **Turkish Academy of Sciences, Outstanding Young Scientists Award (TÜBA-GEBIP)**.
 
