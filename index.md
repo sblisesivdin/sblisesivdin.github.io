@@ -2,7 +2,21 @@
 layout: default
 ---
 
-## Welcome to GitHub Pages
+[About](about.md) | [Other](other.md) 
+
+### CONTACT INFORMATION
+
+(1) Department of Physics, Gazi University, Ankara, Turkey 06500
+
+Phone: +90 312 202 1391
+
+bora@gazi.edu.tr
+
+http://sblisesivdin.lrgresearch.org
+
+More information about me…
+
+Latest available PDF formatted CV (February 2016).
 
 You can use the [editor on GitHub](https://github.com/sblisesivdin/sblisesivdin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
