@@ -16,7 +16,7 @@ http://sblisesivdin.lrgresearch.org
 
 More information [about](about.md) me…
 
-Latest available PDF formatted CV (February 2016).
+[Latest available CV](files/SBLisesivdin-CV-Aug2017.pdf) (August 2017).
 
 ## Recent News
 
