@@ -6,7 +6,8 @@ layout: default
 
 ## Contact Information
 
-<img align="right" src="files/SeferBoraLisesivdin.jpg"> 
+<img align="right" src="files/SeferBoraLisesivdin.jpg">
+
 * Department of Physics, Gazi University, Ankara, Turkey 06500
 * Phone: +90 312 202 1391
 * bora@gazi.edu.tr
