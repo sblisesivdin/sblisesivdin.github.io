@@ -6,17 +6,13 @@ layout: default
 
 ## Contact Information
 
-<img align="right" src="files/SeferBoraLisesivdin.jpg"> (1) Department of Physics, Gazi University, Ankara, Turkey 06500
-
-Phone: +90 312 202 1391
-
-bora@gazi.edu.tr
-
-http://sblisesivdin.lrgresearch.org
-
-More information [about](about.md) me…
-
-[Latest available CV](files/SBLisesivdin-CV-Aug2017.pdf) (August 2017).
+<img align="right" src="files/SeferBoraLisesivdin.jpg"> 
+* Department of Physics, Gazi University, Ankara, Turkey 06500
+* Phone: +90 312 202 1391
+* bora@gazi.edu.tr
+* http://sblisesivdin.lrgresearch.org
+* More information [about](about.md) me…
+* [Latest available CV](files/SBLisesivdin-CV-Aug2017.pdf) (August 2017).
 
 ## Recent News
 
