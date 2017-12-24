@@ -19,6 +19,12 @@ layout: default
 
 ## Recent News
 
+### Our project proposal is accepted!
+
+*26 November 2016*
+
+Our new project proposal is accepted by Scientific and Technological Research Council of Turkey (TUBITAK). Project is about the production and electrical characterization of ZnO, MgZnO alloys and a MgZnO/ZnO heterostructures by Chemical Vapour Deposition Method and will be held between 2017-2019. Our aim is to develop more durable, more efficient, environment friendly and economical power transistors. Therefore we called this project D.E.H.A*. In addition, Dr. S. B. Lisesivdin will be the project investigator of the project. *: Durable, Efficient, Healthy and Affordable
+
 ### Dr. Lisesivdin Received the TUBA / GEBIP Award
 
 *1 November 2016*
