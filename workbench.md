@@ -13,11 +13,10 @@ You can find published articles at the [Publications](publications.md).
 
 ### Accepted Works
 
-* E. Kutlu, G. Atmaca, S. B. Lisesivdin, E. Ozbay "A First Principles Investigation of the Effect of Aluminum, Gallium and Indium Impurities on Optical Properties of β-Si3N4 Structure" Optik
 
 ### Submitted Works
 
-* E. Kutlu, P. Narin, S. B. Lisesivdin, E. Ozbay "Electronic and Optical Properties of Black Phosphorus doped with Au, Sn and I Atoms"
+
 * G. Atmaca, K. Elibol, B. Sarikavak Lisesivdin, S. B. Lisesivdin, M. Kasap, E. Ozbay “Two Dimensional Electron Gas in InAlN/GaN Double Barrier Heterostructures"
 * G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "Electron Drift Velocity in High Fields for AlGaN/AlN/GaN Heterostructures with Si3N4 Surface Passivation Layer"
 * I. Kara, O. Yalcinkaya, S. B. Lisesivdin, M. Kasap ” Analysis Of The Number Of Shots Using Graphite Furnace Atomic Absorption Spectrometry On The Gunshot Residues Deposited in The Barrel”
