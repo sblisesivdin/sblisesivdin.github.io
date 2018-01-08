@@ -144,6 +144,28 @@ Cites:470, h-index:12 (from Web of Science as of October 2016).
 
 ## Proceedings
 
+77 S. Mutlu, S. B. Lisesivdin, A. Erol, E. Tiras "Evoluiton of HELLISH devices: Colorful story of HELLISH Devices from IR to VIS light" Celebrating Naci:The Physics of Optoelectronic Materials and Devices, 27-28 March 2017, Colchester, UK.
+
+76 A. Erol, S. Mutlu, S. B. Lisesivdin, E. Tiras, "Hot electron Transport Based Devices for Optoelectronics" Int. Conf. on Condens. Matt and Mater. Sci., October 11-15 2017, Adana, Turkey. 
+
+75 S. B. Lisesivdin, E. Kutlu, J. M. Allabbas, O. Omeroglu, R. Ibrahem, E. Ozbay "Zn ve Cd Atomları ile Katkılanmış “Armchair” Grafen Nanoşeritlerin Elektronik Yapıları" ADIM Physics Days VI, July 19-21 2017, Balikesir, Turkey.
+
+74 J.-H. Lee, G. Atmaca, J. -G. Kim, D. -H. Son, J. -M. Ju, S. B. Lisesivdin, J. -H. Lee, High Voltage Low Leakage Current AlGaN/GaN HEMTs with Multi-layer Buffer and AlGaN Back-Barrier Structure, P310, Turkish Physical Society 33rd International Physics Congress, September 6-10 2017, Bodrum, Turkey.
+
+73 J. M. Al Abbas, P. Narin, S. B. Lisesivdin, E. Ozbay, A First Principle Investigations of The Electronic Structures For ZGNRs Terminated With Zn, Cd and H, P587, Turkish Physical Society 33rd International Physics Congress, September 6-10 2017, Bodrum, Turkey.
+
+72 A. F. Kuloglu, S. B. Lisesivdin, E. Ozbay, A Theoretical Study of (5,0) Zigzag BexZn1-Xo Nanotubes: Investigation of Structural, Electronic and Optic Properties Using Density Functional Theory, P588, Turkish Physical Society 33rd International Physics Congress, September 6-10 2017, Bodrum, Turkey.
+
+71 E. Kutlu, O. Omeroglu, R. Ibrahem, S. B. Lisesivdin, E. Ozbay, First Principle Calculations of Zn and Cd-Doped Zigzag Graphene Nanoribbons, P611, Turkish Physical Society 33rd International Physics Congress, September 6-10 2017, Bodrum, Turkey.
+
+70 O. Omeroglu, E. Kutlu, S. B. Lisesivdin, E. Ozbay, Investigation of The Electronic Properties of Zinc and Magnesium Adsorption on Graphene Sheets, P620, Turkish Physical Society 33rd International Physics Congress, September 6-10 2017, Bodrum, Turkey.
+
+69 G. Atmaca, J. -G. Kim, J. -H. Lee, C. -H. Won, S. -H. Kang, S. B. Lisesivdin, J. -H. Lee, Numerical Optimization of 2DEG Improvement in AlGaN/GaN HEMTs with C-GaN/u-GaN Multi-layer Buffer Structure, P629, Turkish Physical Society 33rd International Physics Congress, September 6-10 2017, Bodrum, Turkey.
+
+68 R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay, Optimized Ab Initio Studies on Electronic Structure of Wurtzite MgZnO, P630, Turkish Physical Society 33rd International Physics Congress, September 6-10 2017, Bodrum, Turkey.
+
+67 P. Narin, J. M. Al Abbas, S. B. Lisesivdin, E. Ozbay, The Effect of Zinc, Cadmium and Hydrogen Terminations on The Electronic Structure of Symetrical AGNRs, P648, Turkish Physical Society 33rd International Physics Congress, September 6-10 2017, Bodrum, Turkey.
+
 66    E. Kutlu, P. Narin, G. Atmaca, S. B. Lisesivdin, E. Ozbay “Sn, I, Au gibi Bazı Safsızlıkların Siyah Fosfor’un Elektronik ve Optik Özelliklerine Etkileri” 18. Ulusal Optik, Elektro-Optik ve Fotonik Çalıştayı, Ankara P26,(2016).
 
 65   P. Narin, E. Kutlu, G. Atmaca, B. Sarıkavak-Lisesivdin, S. B. Lisesivdin, E. Ozbay “Ultraince Bariyere Sahip AlN/GaN ve InAlN/GaN HEMT Yapıların Yapısal ve Yüzey Özelliklerinin İncelenmesi” 18. Ulusal Optik, Elektro-Optik ve Fotonik Çalıştayı, Ankara P72,(2016). 
