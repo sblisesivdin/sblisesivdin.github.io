@@ -5,7 +5,7 @@
 You can find accepted and submitted articles at the [recent studies](workbench.md). Corrigenda and errata are at the bottom of this page. You can post errors to sblisesivdin-AT-gmail.com. The articles are copyrighted (©) by the respective publishers. Please do not hesitate to contact to obtain author copies of the articles.
 
 ## Cites and h-index
-Cites:470, h-index:12 (from Web of Science as of October 2016).
+Cites:542, h-index:13 (from Web of Science as of January 2018).
 
 ## Books and Book Chapters
 
