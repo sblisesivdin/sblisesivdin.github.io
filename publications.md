@@ -14,13 +14,15 @@ Cites:542, h-index:13 (from Web of Science as of January 2018).
 
 ## SCI-Articles
 
+61	G. Atmaca, P. Narin, E. Kutlu, T. V. Malin, V. G. Mansurov, K. S. Zhuravlev, S. B. Lisesivdin, E. Ozbay, “Negative Differential Resistance Observation and a New Fitting Model for Electron Drift Velocity in GaN-Based Heterostructures” IEEE Trans. Electron Dev. 65, 950 (2018).
+
 60 E. Kutlu, P. Narin, S. B. Lisesivdin, E. Ozbay "Electronic and optical properties of black phosphorus doped with Au, Sn and I atoms" Philos. Mag. 98, 155 (2018).
 
 59 P. Narin, E. Kutlu, G. Atmaca, S. B. Lisesivdin, E. Ozbay "A ﬁrst principles investigation of the effect of aluminum, gallium and indium impurities on optical properties of B-Si3N4 structure" Optik 147, 115 (2017).
 
 58 J. M. Al Abbas, P. Narin, G. Atmaca, E. Kutlu, B. Sarikavak-Lisesivdin, S. B. Lisesivdin "The effect of doping in different layers on 2DEG for ultrathin-barrier AlN/GaN heterostructures" Optoelectron. Adv. Mater.-Rapid Comm. 11, 328 (2017). 
 
-57 J. M. All Abbas, G. Atmaca, P. Narin, E. Kutlu, B. Sarikavak-Lisesivdin, S. B. Lisesivdin "A Comparative Study of AlGaN and InGaN Back-Barriers in Ultrathin-Barrier AlN/GaN Heterostructures" J. Elec. Mater. DOI: 10.1007/s11664-017-5540-7 (2017).
+57 J. M. All Abbas, G. Atmaca, P. Narin, E. Kutlu, B. Sarikavak-Lisesivdin, S. B. Lisesivdin "A Comparative Study of AlGaN and InGaN Back-Barriers in Ultrathin-Barrier AlN/GaN Heterostructures" J. Elec. Mater. 46, 5278 (2017).
 
 56 E. Kutlu, P. Narin, G. Atmaca, B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Ozbay "Electronic structure of β-Si3N4 crystals with substitutional icosagen group impurities" J. Optoelectron. Adv. Mater. 19, 278 (2017). 
 
