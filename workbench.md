@@ -17,10 +17,14 @@ You can find published articles at the [Publications](publications.md).
 
 ### Submitted Works
 
+* Ö. Ömeroğlu, E. Kutlu, P. Narin, S. B. Lisesivdin, E. Ozbay "Electronic Properties of Graphene Nanoribbons Doped with Zinc, Cadmium, Mercury Atoms"
 * P. Narin, E. Arslan, M. Ozturk, S. B. Lisesivdin, E. Ozbay "Scattering Analysis of Ultrathin Barrier (< 7 nm) GaN-based Heterostructures"
 * G. Atmaca, K. Elibol, B. Sarikavak Lisesivdin, S. B. Lisesivdin, M. Kasap, E. Ozbay “Two Dimensional Electron Gas in InAlN/GaN Double Barrier Heterostructures"
 * G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "Electron Drift Velocity in High Fields for AlGaN/AlN/GaN Heterostructures with Si3N4 Surface Passivation Layer"
 * I. Kara, O. Yalcinkaya, S. B. Lisesivdin, M. Kasap ” Analysis Of The Number Of Shots Using Graphite Furnace Atomic Absorption Spectrometry On The Gunshot Residues Deposited in The Barrel”
+
+### MIA
+
 * K. Elibol, G. Atmaca, S. B. Lisesivdin, M. Kasap, S. Butun, T. Ciuk, W. Strupinski, A. Meyer, J. I. Flege, J. Falta, and E. Ozbay “Electron transport mechanism in monolayer epitaxial graphene on (6√3 x6√3)R30° reconstructed 6H-SiC(0001)”
 * K. Elibol, B. Sarikavak-Lisesivdin, C. Gunes, A. F. Kuloglu, S. B. Lisesivdin and M. Kasap “Numerical and Analytical Investigation of the Effects of InAlN/AlGaN Barrier in GaN-Based HEMTs”
 
