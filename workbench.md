@@ -20,7 +20,7 @@ You can find published articles at the [Publications](publications.md).
 * Ö. Ömeroğlu, E. Kutlu, P. Narin, S. B. Lisesivdin, E. Ozbay "Electronic Properties of Graphene Nanoribbons Doped with Zinc, Cadmium, Mercury Atoms"
 * P. Narin, E. Arslan, M. Ozturk, S. B. Lisesivdin, E. Ozbay "Scattering Analysis of Ultrathin Barrier (< 7 nm) GaN-based Heterostructures"
 * G. Atmaca, K. Elibol, B. Sarikavak Lisesivdin, S. B. Lisesivdin, M. Kasap, E. Ozbay “Two Dimensional Electron Gas in InAlN/GaN Double Barrier Heterostructures"
-* G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "Electron Drift Velocity in High Fields for AlGaN/AlN/GaN Heterostructures with Si3N4 Surface Passivation Layer"
+* G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "The Dependence of Hot-Electron Temperature and Hot-Phonon Lifetime on Electric Field in GaN-based Heterostructures"
 * I. Kara, O. Yalcinkaya, S. B. Lisesivdin, M. Kasap ” Analysis Of The Number Of Shots Using Graphite Furnace Atomic Absorption Spectrometry On The Gunshot Residues Deposited in The Barrel”
 
 ### MIA
