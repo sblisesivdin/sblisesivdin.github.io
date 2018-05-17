@@ -17,7 +17,8 @@ You can find published articles at the [Publications](publications.md).
 
 ### Submitted Works
 
-* P. Narin, E. Kutlu, S. B. Lisesivdin "Growth Behaviours of ZnO Nanostructures grown by Ultrasonic Spray CVD on SiO2" ML
+* P.Narin, J. M. All Abbas, G. Atmaca, E. Kutlu, S. B. Lisesivdin, E. Ozbay "First Principle Calculations of Armchair Graphene Nanoribbons Passivated with Heavy Metals"
+* P. Narin, E. Kutlu, S. B. Lisesivdin "Growth Behaviours of ZnO Nanostructures grown by Ultrasonic Spray CVD on SiO2" PA
 * Ö. Ömeroğlu, E. Kutlu, P. Narin, S. B. Lisesivdin, E. Ozbay "Electronic Properties of Graphene Nanoribbons Doped with Zinc, Cadmium, Mercury Atoms" PE
 * P. Narin, E. Arslan, M. Ozturk, S. B. Lisesivdin, E. Ozbay "Scattering Analysis of Ultrathin Barrier (< 7 nm) GaN-based Heterostructures" JEMS
 * G. Atmaca, K. Elibol, B. Sarikavak Lisesivdin, S. B. Lisesivdin, M. Kasap, E. Ozbay “Two Dimensional Electron Gas in InAlN/GaN Double Barrier Heterostructures" 
