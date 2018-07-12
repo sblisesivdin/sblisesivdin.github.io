@@ -14,7 +14,9 @@ Cites:542, h-index:13 (from Web of Science as of January 2018).
 
 ## SCI-Articles
 
-61	G. Atmaca, P. Narin, E. Kutlu, T. V. Malin, V. G. Mansurov, K. S. Zhuravlev, S. B. Lisesivdin, E. Ozbay, “Negative Differential Resistance Observation and a New Fitting Model for Electron Drift Velocity in GaN-Based Heterostructures” IEEE Trans. Electron Dev. 65, 950 (2018).
+62	G. Atmaca, P. Narin, E. Kutlu, T. V. Malin, V. G. Mansurov, K. S. Zhuravlev, S. B. Lisesivdin, E. Ozbay, “Negative Differential Resistance Observation and a New Fitting Model for Electron Drift Velocity in GaN-Based Heterostructures” IEEE Trans. Electron Dev. 65, 950 (2018).
+
+61  P. Narin, E. Kutlu, G. Atmaca, A. Atilgan, A. Yildiz. S. B. Lisesivdin, "Structural and optical properties of hexagonal ZnO nanostructures grown by ultrasonic spray CVD" Optik 168, 86 (2018).
 
 60 E. Kutlu, P. Narin, S. B. Lisesivdin, E. Ozbay "Electronic and optical properties of black phosphorus doped with Au, Sn and I atoms" Philos. Mag. 98, 155 (2018).
 
