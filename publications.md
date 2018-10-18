@@ -5,11 +5,12 @@
 You can find accepted and submitted articles at the [recent studies](workbench.md). Corrigenda and errata are at the bottom of this page. You can post errors to sblisesivdin-AT-gmail.com. The articles are copyrighted (©) by the respective publishers. Please do not hesitate to contact to obtain author copies of the articles.
 
 ## Cites and h-index
-Cites:542, h-index:13 (from Web of Science as of January 2018).
+Cites:597, h-index:14 (from Web of Science as of October 2018).
 
 ## Books and Book Chapters
 
 2 S. B. Lisesivdin, B. Sarikavak-Lisesivdin, E. Ozbay “Chapter 15: The Effects of the Interaction of Transition Metals on the Electronic Properties of the Graphene Nanosheets and Nanoribbons” Graphene Science Handbook Vol.3, CRCPress, Taylor&Francis, (2016).
+
 1 E. L. Wolf, M. Medikonda, (Transl. eds: B. Sarikavak-Lisesivdin, S. B. Lisesivdin) “Nanoteknoloji Devrimini Anlamak” Nobel Yayınevi, (2014).
 
 ## SCI-Articles
