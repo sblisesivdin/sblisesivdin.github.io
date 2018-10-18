@@ -13,8 +13,7 @@ You can find published articles at the [Publications](publications.md).
 
 ### Accepted Works
 
-* Ö. Ömeroğlu, E. Kutlu, P. Narin, S. B. Lisesivdin, E. Ozbay "Electronic Properties of Graphene Nanoribbons Doped with Zinc, Cadmium, Mercury Atoms" Physica E
-* N.N "High Figure-of-Merit (VBR2/RON) AlGaN/GaN Power HEMT with Periodically C-doped GaN Buffer and AlGaN Back Barrier" JEDS
+* n/a
 
 ### Submitted Works
 
