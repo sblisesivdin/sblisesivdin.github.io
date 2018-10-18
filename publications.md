@@ -14,6 +14,10 @@ Cites:542, h-index:13 (from Web of Science as of January 2018).
 
 ## SCI-Articles
 
+64  J.-H. Lee, J.-M. Ju, G. Atmaca, J.-G. Kim, S.-H. Kang, Y. S. Lee, S.-H. Lee, J.-W. Lim, H.-S. Kwon, S. B. Lisesivdin,J.-H. Lee " High Figure-of-Merit (V2BR/RON) AlGaN/GaN Power HEMT With Periodically C-Doped GaN Buffer and AlGaN Back Barrier" IEEE J. Electron Dev. Soc. 6, 1179 (2018).
+
+63 Ö. Ömeroğlu, E. Kutlu, P. Narin, S. B. Lisesivdin, E. Ozbay "Electronic Properties of Graphene Nanoribbons Doped with Zinc, Cadmium, Mercury Atoms" Physica E 104, 124 (2018).
+
 62	G. Atmaca, P. Narin, E. Kutlu, T. V. Malin, V. G. Mansurov, K. S. Zhuravlev, S. B. Lisesivdin, E. Ozbay, “Negative Differential Resistance Observation and a New Fitting Model for Electron Drift Velocity in GaN-Based Heterostructures” IEEE Trans. Electron Dev. 65, 950 (2018).
 
 61  P. Narin, E. Kutlu, G. Atmaca, A. Atilgan, A. Yildiz. S. B. Lisesivdin, "Structural and optical properties of hexagonal ZnO nanostructures grown by ultrasonic spray CVD" Optik 168, 86 (2018).
