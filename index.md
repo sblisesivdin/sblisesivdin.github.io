@@ -29,12 +29,6 @@ Our start-up company plan for building UV-VIS-NIR spectrometer is financially su
 
 *09 August 2018*
 
-Our project, which is about to produce the "national" random number generator upto 40 Gbit/s, is passed the first phase of the TUBITAK 1003 programme. We have already started to finalize the draft of the submission of second phase. Due date for the submissions for the second phase is at November 2018.
-
-### Our project is passed the first phase of TUBITAK 1003 programme
-
-*09 August 2018*
-
 Our project, which is about to produce the national random number generator upto 40 Gbit/s, is passed the first phase of the TUBITAK 1003 programme. We have already started to finalize the draft of the submission of second phase. Due date for the submissions for the second phase is at November 2018.
 
 ### Dr. Lisesivdin appointed as full professor
