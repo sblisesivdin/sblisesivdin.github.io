@@ -10,6 +10,8 @@
 ## Grants and Projects
 
 ### Earned grants as a project investigator (PI) or project co-investigator (co-PI)
+* 2018-2019	     TUBITAK 1512, 2180227, Production of Compact USB Fiber-coupled UV-VIS-NIR Optical Spectrometer for Industrial and Scientific Purposes, CEO and PI, Budget, 149 810 TL no-return grant (approximately 24 500 Euros) 
+* 2017-2020	     TUBITAK 1001, 116F197, Investigation of Growth Behaviors and 2DEG Properties of of MgZnO/ZnO Heterostructures grown by USPECVD Method, PI, Budget, 359 810 TL (approximately 88 600 Euros) 
 * 2014-2016      Joint grant of Scientific and Technological Research Council of Turkey and RFBR of Russia, 113F364, Manipulation properties of two-dimensional electronic gas using insitu surface passivation of AlGaN/GaN heterostructures by molecular beam epitaxy, PI, Budget: 282 910 TL (approximately 100k €)
 * 2012-2013        University Research Grant, 05-2012/13, Numerical optimization of MgxZn1-xO/ZnO and BexZn1-xO/ZnO based heterostructure transistors, PI, Budget: 14 889 TL (approximately 6 500 €)
 * 2012-2013        University Research Grant, 05-2012/14, Investigation of the effects of transition metal palladium on electronical, structural and optical properties of graphene nanoribbons, PI, Budget: 14 955 TL (approximately 6 500 €)
