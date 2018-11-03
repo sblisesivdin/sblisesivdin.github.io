@@ -26,8 +26,13 @@
 * 2006-2007       TUBITAK 1007 Research Project, 105A005, Scholar, Budget: 5.5M TL (approximately 2 4M €)
 
 ## Scholarships, Fellowships and Awards
-* 2014                Turkish Society of Physics Prof. Dr. Sevket Erk Young Scientist Award is earned.
-* 2013                TUBITAK 2219 scholarship for postdoc research (6 months).
+* 2017  Duty Award, Gazi University Faculty of Science, Ankara, Turkey.
+* 2016	Turkish Academy of Sciences, Distinguished Young Scientist Award
+* 2015	IEEE Senior Membership
+* 2015	SCI-indexed Publication Award, Gazi University, Ankara, Turkey.
+* 2015	Duty Award, Gazi University Faculty of Science, Ankara, Turkey.
+* 2014  Turkish Society of Physics Prof. Dr. Sevket Erk Young Scientist Award is earned.
+* 2013  TUBITAK 2219 scholarship for postdoc research (6 months).
 * 2007-now     20 publications are promoted through TUBITAK Incentive Program for International Scientific Publications.
 * 2010                SCI-indexed Publication Award, Gazi University, Ankara, Turkey.
 * 2008-2009    Postdoc fellowship for postdoc studies.
@@ -56,8 +61,8 @@
 * **Reviewer:** Journal of Physics D – Applied Physics, Semiconductor Science and Technology, Applied Physics Letters, Physica E and Physica B.
 
 ### Professional Affiliations
-* 2005-present    IEEE (Institute of Electrical and Electronics Engineers)
-* 2005-present    IEEE Electron Devices Society
+* 2005-present    IEEE (Institute of Electrical and Electronics Engineers) (Senior Member)
+* 2005-present    IEEE Electron Devices Society (Senior Member)
 * 2006               IEEE Communications Society
 * 2006               SPIE (Society of Photographic Instrumentation Engineers)
 * 2003               Hacettepe University Alumni
