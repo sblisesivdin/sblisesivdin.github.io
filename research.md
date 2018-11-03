@@ -5,12 +5,12 @@
 * Transport properties of low-dimensional systems as Quantum dots (0D), Quantum wires (1D), Quantum wells (2D),
 * Transport, strain, persistent photoconductivity, hot-electron transport properties, Shubnikov de Hass parameters and quantum parameters of 2 dimensional gas (2DEG) of AlGaN/GaN, AlGaN/(AlN)/GaN, AlGaN/(AlN)/GaN/AlN HEMT and AlInN/AlN/GaN/AlN structures,
 * Electrical properties of Graphene,
-* As tools; Hall Effect (HE), Quantum Hall Effect (QHE), Semiconductor Device simulator Nextnano3.
+* As tools; Hall Effect (HE), Quantum Hall Effect (QHE), Semiconductor Device simulators Aestimo and TiberCad. DFT calculator ATK.
 
 ## Grants and Projects
 
 ### Earned grants as a project investigator (PI) or project co-investigator (co-PI)
-* 2018-2019	     TUBITAK 1512, 2180227, Production of Compact USB Fiber-coupled UV-VIS-NIR Optical Spectrometer for Industrial and Scientific Purposes, CEO and PI, Budget, 149 810 TL no-return grant (approximately 24 500 Euros) 
+* 2018-2019	     TUBITAK 1512, 2180227, Production of Compact USB Fiber-coupled UV-VIS-NIR Optical Spectrometer for Industrial and Scientific Purposes, CEO and PI, Budget, 149 846 TL no-return grant (approximately 24 500 Euros) 
 * 2017-2020	     TUBITAK 1001, 116F197, Investigation of Growth Behaviors and 2DEG Properties of of MgZnO/ZnO Heterostructures grown by USPECVD Method, PI, Budget, 359 810 TL (approximately 88 600 Euros) 
 * 2014-2016      Joint grant of Scientific and Technological Research Council of Turkey and RFBR of Russia, 113F364, Manipulation properties of two-dimensional electronic gas using insitu surface passivation of AlGaN/GaN heterostructures by molecular beam epitaxy, PI, Budget: 282 910 TL (approximately 100k €)
 * 2012-2013        University Research Grant, 05-2012/13, Numerical optimization of MgxZn1-xO/ZnO and BexZn1-xO/ZnO based heterostructure transistors, PI, Budget: 14 889 TL (approximately 6 500 €)
