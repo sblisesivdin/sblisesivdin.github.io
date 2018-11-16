@@ -21,7 +21,7 @@ You can find published articles at the [Publications](publications.md).
 * J.M. All Abbas, P. Narin, E. Kutlu, S. B. Lisesivdin, E. Ozbay "Electronic properties of Zigzag ZnO nanoribbons with Hydrogen and Magnesium passivations"
 * P.Narin, J. M. All Abbas, G. Atmaca, E. Kutlu, S. B. Lisesivdin, E. Ozbay "First Principle Calculations of Armchair Graphene Nanoribbons Passivated with Heavy Metals"
 * P. Narin, E. Kutlu, S. B. Lisesivdin "Growth Behaviours of ZnO Nanostructures grown by Ultrasonic Spray CVD on SiO2" PA
-* P. Narin, E. Arslan, M. Ozturk, S. B. Lisesivdin, E. Ozbay "Scattering Analysis of Ultrathin Barrier (< 7 nm) GaN-based Heterostructures" JEMS
+* P. Narin, E. Arslan, M. Ozturk, S. B. Lisesivdin, E. Ozbay "Scattering Analysis of Ultrathin Barrier (< 7 nm) GaN-based Heterostructures" APA
 * G. Atmaca, K. Elibol, B. Sarikavak Lisesivdin, S. B. Lisesivdin, M. Kasap, E. Ozbay “Two Dimensional Electron Gas in InAlN/GaN Double Barrier Heterostructures" 
 * G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "The Dependence of Hot-Electron Temperature and Hot-Phonon Lifetime on Electric Field in GaN-based Heterostructures" PSS
 
