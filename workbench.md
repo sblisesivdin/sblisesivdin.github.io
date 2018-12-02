@@ -13,12 +13,12 @@ You can find published articles at the [Publications](publications.md).
 
 ### Accepted Works
 
-* n/a
+* J.M. All Abbas, P. Narin, E. Kutlu, S. B. Lisesivdin, E. Ozbay "Electronic properties of Zigzag ZnO nanoribbons with Hydrogen and Magnesium passivations" Physica B
 
 ### Submitted Works
 
+* E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effect of Magnesium Content in Precursor and Growth Temperature on Structural and Optical Properties of MgxZn1-xO (x<0.4)"
 * R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay "Investigation of  Electronic Properties of Magnesium Zinc Oxide using GGA+U Formalism"
-* J.M. All Abbas, P. Narin, E. Kutlu, S. B. Lisesivdin, E. Ozbay "Electronic properties of Zigzag ZnO nanoribbons with Hydrogen and Magnesium passivations"
 * P.Narin, J. M. All Abbas, G. Atmaca, E. Kutlu, S. B. Lisesivdin, E. Ozbay "First Principle Calculations of Armchair Graphene Nanoribbons Passivated with Heavy Metals" ssc
 * P. Narin, E. Kutlu, S. B. Lisesivdin "Growth Behaviours of ZnO Nanostructures grown by Ultrasonic Spray CVD on SiO2" PA
 * P. Narin, E. Arslan, M. Ozturk, S. B. Lisesivdin, E. Ozbay "Scattering Analysis of Ultrathin Barrier (< 7 nm) GaN-based Heterostructures" APA
