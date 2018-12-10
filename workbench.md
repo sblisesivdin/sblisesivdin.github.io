@@ -17,7 +17,7 @@ You can find published articles at the [Publications](publications.md).
 
 ### Submitted Works
 
-* E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effect of Magnesium Content in Precursor and Growth Temperature on Structural and Optical Properties of MgxZn1-xO (x<0.4)"
+* E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effect of Magnesium Content and Growth Temperature on Structural and Optical Properties of USCVD grown MgZnO films"
 * R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay "Investigation of  Electronic Properties of Magnesium Zinc Oxide using GGA+U Formalism"
 * P.Narin, J. M. All Abbas, G. Atmaca, E. Kutlu, S. B. Lisesivdin, E. Ozbay "First Principle Calculations of Armchair Graphene Nanoribbons Passivated with Heavy Metals" ssc
 * P. Narin, E. Kutlu, S. B. Lisesivdin "Growth Behaviours of ZnO Nanostructures grown by Ultrasonic Spray CVD on SiO2" PA
