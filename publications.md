@@ -117,7 +117,7 @@ Cites:597, h-index:14 (from Web of Science as of October 2018).
 
 14  S. B. Lisesivdin, N. Balkan, E. Ozbay “A Simple Parallel Conduction Extraction Method (SPCEM) for MODFETs and Undoped GaN-based HEMTs” Microelectron. J. 40, 413 (2009).
 
-13  A. Yildiz, S. B. Lisesivdin, M. Kasap, M. Bosi “Anomalous resistivity behaviour in In0.17Ga0.83N” Solid State Commun. 149, 337 (2009).
+13  A. Yildiz, S. B. Lisesivdin, M. Kasap, M. Bosi “Anomalous temperature dependence of the electrical resistivity in  In0.17Ga0.83N” Solid State Commun. 149, 337 (2009).
 
 12  A. Yildiz, S. B. Lisesivdin, M. Kasap, D. Mardare “Electrical Properties of TiO2 Thin Films” J. Non-Crys. Solids 354, 4944 (2008).
 
