@@ -89,7 +89,7 @@ Cites:597, h-index:14 (from Web of Science as of October 2018).
 
 28  S. B. Lisesivdin, P. Tasli, M. Kasap, M. Ozturk, E. Arslan, S. Ozcelik, and E. Ozbay, “Double subband occupation of the two-dimensional electron gas in InxAl1-xN/AlN/GaN/AlN Heterostructures with Low Indium Barrier (0.064 < x < 0.139)” Thin Solid Films 518, 5572 (2010).
 
-27 A. Yildiz, S. B. Lisesivdin, M. Kasap, D. Mardare “The substrate temperature effect on the electrical properties of titanium oxide thin films” J. Mater. Sci.: Mater. Electron. 21, 692 (2010).
+27 A. Yildiz, S. B. Lisesivdin, M. Kasap, D. Mardare “The substrate temperature dependent electrical properties of titanium dioxide thin films” J. Mater. Sci.: Mater. Electron. 21, 692 (2010).
 
 26  S. Gokden, R. Tulek, A. Teke, J. H. Leach, Q. Fan, J. Xie, U. Ozgur, H. Morkoc, S. B. Lisesivdin, E. Ozbay “Mobility limiting scattering mechanisms in nitride-based two-dimensional heterostructures with InGaN channel” Semicond. Sci. Technol. 25, 045024 (2010).
 
