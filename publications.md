@@ -71,7 +71,7 @@ Cites:597, h-index:14 (from Web of Science as of October 2018).
 
 37 E. Tiras, O. Celik, S. Mutlu, S. Ardali, S. B. Lisesivdin, E. Ozbay “Temperature dependent energy relaxation time in AlGaN/AlN/GaN heterostructures” Superlat. Microstruct. 51, 733 (2012).
 
-36  O. Celik, E. Tiras, S. Ardali, S. B. Lisesivdin, E. Ozbay “Determination of the LO phonon energy and alloy scattering potential in AlGaN/GaN HEMT’s” Cent. Eur. J. Phys. 10, 485 (2012).
+36  O. Celik, E. Tiras, S. Ardali, S. B. Lisesivdin, E. Ozbay “Determination of the LO phonon energy by using electronic and optical methods in AlGaN/GaN” Cent. Eur. J. Phys. 10, 485 (2012).
 
 35  O. Kelekci, S. B. Lisesivdin, S.Ozcelik, E. Ozbay “Numerical optimization of In-mole fraction and layer thicknesses in AlxGa1-xN/AlN/GaN high electron mobility transistors with InGaN back barrier” Physica B 406, 1513 (2011).
 
