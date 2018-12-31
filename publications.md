@@ -153,6 +153,28 @@ Cites:597, h-index:14 (from Web of Science as of October 2018).
 
 ## Proceedings
 
+88	O. Omeroglu, S. B. Lisesivdin, E. Ozbay “The Optical Properties of Group-III Nitrides with LDA-1/2 Approximation” 20th National Workshop on Optics, Electro-optics and Photonics, Ankara, P78, (2018).
+
+87	G. Atmaca, P. Narin, E. Kutlu, S. Ardali, E. Tiras, T. Malin, V. G. Mansurov, K. S. Zhuravlev, S. B. Lisesivdin, E. Ozbay “An Investigation on Lifetime of Hot Phonons in GaN-Based Heterostructures” 20th National Workshop on Optics, Electro-optics and Photonics, Ankara, P68, (2018).
+
+86	J. M. All Abbas, P. Narin, E. Kutlu, S. B. Lisesivdin, E. Ozbay “First Principle Study of ZnO Nanoribbon Passivated with H and Mg” 20th National Workshop on Optics, Electro-optics and Photonics, Ankara, P37, (2018).
+
+85	E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin “Structural and Optical Properties of MgxZn1-xO Nanostructures Depending on Growth Temperatures” 20th National Workshop on Optics, Electro-optics and Photonics, Ankara, P31, (2018).
+
+84	E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin “Effect of Transducer Power on Optical and Structural Properties of ZnO Nanostructures” 20th National Workshop on Optics, Electro-optics and Photonics, Ankara, P30, (2018).
+
+83	P. Narin, E. Kutlu, S. B. Lisesivdin, E. Ozbay “Growth of ZnO Nanostructures on Sapphire by Ultrasonic Spray CVD” 20th National Workshop on Optics, Electro-optics and Photonics, Ankara, P29, (2018).
+
+82	P. Narin, E. Kutlu, S. B. Lisesivdin,“Optical and Structural Properties of ZnO Grown by Mist CVD Using Different Precursor Molarity” 20th National Workshop on Optics, Electro-optics and Photonics, Ankara, P28, (2018).
+
+81	R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay “First-Principles Calculation of Optical Properties of Magnesium Zinc Oxide” 20th National Workshop on Optics, Electro-optics and Photonics, Ankara, P14, (2018).
+
+80	O. Omeroglu, S. B. Lisesivdin, E. Ozbay “The Electronic Properties of Asymmetrical Armchair Boron Nitride Nanoribbons With Germanium Termination” p475, Turkish Physical Society 34th International Physics Congress, September 5-9 2018, Bodrum, Turkey.
+
+79	O. Omeroglu, S. B. Lisesivdin, E. Ozbay “Improvement of the Theoretical Band Gaps for AlN, GaN and InN with LDA-1/2 Approach” p495, Turkish Physical Society 34th International Physics Congress, September 5-9 2018, Bodrum, Turkey.
+
+78	M. T. Haliloglu, S. B. Lisesivdin, E. Ozbay “Back-Side Via Etching Application of SiC for GaN-Based Transistors” 1st Light and Light-Based Technologies Workshop, Ankara, p51 (2018).
+
 77 S. Mutlu, S. B. Lisesivdin, A. Erol, E. Tiras "Evoluiton of HELLISH devices: Colorful story of HELLISH Devices from IR to VIS light" Celebrating Naci:The Physics of Optoelectronic Materials and Devices, 27-28 March 2017, Colchester, UK.
 
 76 A. Erol, S. Mutlu, S. B. Lisesivdin, E. Tiras, "Hot electron Transport Based Devices for Optoelectronics" Int. Conf. on Condens. Matt and Mater. Sci., October 11-15 2017, Adana, Turkey. 
