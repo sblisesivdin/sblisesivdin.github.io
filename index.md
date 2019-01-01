@@ -14,6 +14,7 @@ layout: default
   * Phone: +90 312 202 1391
   * bora@gazi.edu.tr
   * http://sblisesivdin.lrgresearch.org
+  * https://www.linkedin.com/in/sblisesivdin
 * More information [about](about.md) me…
 * [Latest available CV](files/SBLisesivdin-CV-Jan2019.pdf) (January 2019).
 
