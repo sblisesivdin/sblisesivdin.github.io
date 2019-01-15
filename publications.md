@@ -35,7 +35,7 @@ Cites:597, h-index:14 (from Web of Science as of October 2018).
 
 55 P. Narin, E. Kutlu, B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Özbay “Electronic Properties of Li-doped Zigzag Graphene Nanoribbons” Physica E 84, 543 (2016).
 
-54 E. Kutlu, P. Narin, G. Atmaca, B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Özbay “Effect of As-impurity on Electrical and Optical Properties of β−Si3N4Structure” Mater. Res. Bull. 83, 128 (2016).
+54 E. Kutlu, P. Narin, G. Atmaca, B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Özbay “Effect of substitutional As impurity on electrical and optical properties of β−Si3N4 Structure” Mater. Res. Bull. 83, 128 (2016).
 
 53 G. Atmaca, S. Ardali, E. Tiras, T. Malin, V.G. Mansurov, K.S. Zhuravlev, S.B. Lisesivdin, "Scattering analysis of 2DEG mobility in undoped and doped AlGaN/AlN/GaN heterostructures with an in situ Si3N4 passivation layer", Solid-State Electronics 118, 12-17 (2016).
 
@@ -125,7 +125,7 @@ Cites:597, h-index:14 (from Web of Science as of October 2018).
 
 10  E. Arslan, S. Butun, S. B. Lisesivdin, M. Kasap, S. Ozcelik, and E. Ozbay “The persistent photoconductivity effect in AlGaN/GaN heterostructures grown on sapphire and SiC substrates” J. Appl. Phys. 103, 103701 (2008).
 
-9   S. Acar, S. B. Lisesivdin, M. Kasap, S. Ozcelik and E. Ozbay “Determination of 2DEG and 2DHG carriers in AlGaN/GaN/AlN heterostructures grown by MOCVD” Thin Solid Films 516, 2041 (2008).
+9   S. Acar, S. B. Lisesivdin, M. Kasap, S. Ozcelik and E. Ozbay “Determination of two-dimensional electron and hole gas carriers in AlGaN/GaN/AlN heterostructures grown by Metal Organic Chemical Vapor Deposition” Thin Solid Films 516, 2041 (2008).
 
 8   A. Yildiz, F. Dagdelen, S. Acar, S. B. Lisesivdin, M. Kasap, Y. Aydogdu and M. Bosi “Stokes shift and bandgap bowing in InxGa1-xN (0.060 ≤ x ≤ 0.105) grown by MOVPE” Acta Physica Pol. (a) 113, 731 (2008).
 
