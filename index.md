@@ -20,6 +20,12 @@ layout: default
 
 ## Recent News
 
+### Dr Lisesivdin earned the Royal Academy of Engineering Scholarship
+
+*19 March 2019*
+
+Dr. Lişesivdin, earned to participate a fellowship program of Royal Academy of Engineering which is called "Leaders in Innovation fellowship". This program is funded by the Ministry of Labor, Energy and Industrial Strategy of the UK: Newton Fund (known as Katip Celebi Fund in Turkey) and directed by the Royal Academy of Engineering. Dr. Lisesivdin attended to an entrepreneurship training in London between 2-16 March 2019 and introduced the his company's business idea to the members of the academy. Close work will be continued within the framework of the academy program.
+
 ### Our start-up company application is supported by TUBITAK! 
 
 *17 August 2018*
