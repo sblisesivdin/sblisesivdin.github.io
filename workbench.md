@@ -15,15 +15,17 @@ You can find published articles at the [Publications](publications.md).
 
 * J.M. All Abbas, P. Narin, E. Kutlu, S. B. Lisesivdin, E. Ozbay "Electronic properties of Zigzag ZnO nanoribbons with Hydrogen and Magnesium passivations" Physica B
 
+* P. Narin, E. Arslan, M. Ozturk, S. B. Lisesivdin, E. Ozbay "Scattering Analysis of Ultrathin Barrier (< 7 nm) GaN-based Heterostructures" APA
+
 ### Submitted Works
 
-* E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effect of Magnesium Content and Growth Temperature on Structural and Optical Properties of USCVD grown MgZnO films"
+* E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effect of Magnesium Content and Growth Temperature on Structural and Optical Properties of USCVD grown MgZnO films" TSF
 * R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay "Investigation of Electronic and Optical Properties of MgZnO using DFT+U Formalism" SSE
-* P.Narin, J. M. All Abbas, G. Atmaca, E. Kutlu, S. B. Lisesivdin, E. Ozbay "First Principle Calculations of Armchair Graphene Nanoribbons Passivated with Heavy Metals" ssc
-* P. Narin, E. Kutlu, S. B. Lisesivdin "Growth Behaviours of ZnO Nanostructures grown by Ultrasonic Spray CVD on SiO2" PA
-* P. Narin, E. Arslan, M. Ozturk, S. B. Lisesivdin, E. Ozbay "Scattering Analysis of Ultrathin Barrier (< 7 nm) GaN-based Heterostructures" APA
-* G. Atmaca, K. Elibol, B. Sarikavak Lisesivdin, S. B. Lisesivdin, M. Kasap, E. Ozbay “Two Dimensional Electron Gas in InAlN/GaN Double Barrier Heterostructures" 
+* P.Narin, J. M. All Abbas, G. Atmaca, E. Kutlu, S. B. Lisesivdin, E. Ozbay "First Principle Calculations of Armchair Graphene Nanoribbons Passivated with Heavy Metals" SSC
+* P. Narin, E. Kutlu, S. B. Lisesivdin "Growth Behaviours of ZnO Nanostructures grown by Ultrasonic Spray CVD on SiO2" 
 * G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "The Dependence of Hot-Electron Temperature and Hot-Phonon Lifetime on Electric Field in GaN-based Heterostructures" PSS
+* E. Kutlu1, P. Narin, A. Yildiz, S. B. Lisesivdin "Effects of Annealing on Structural and Optical Properties of ZnO grown on different Substrates" MSEB
+* G. Atmaca et al. "Molarity effect of precursor solution ZnO" 
 
 
 ### MIA
@@ -31,5 +33,6 @@ You can find published articles at the [Publications](publications.md).
 * K. Elibol, G. Atmaca, S. B. Lisesivdin, M. Kasap, S. Butun, T. Ciuk, W. Strupinski, A. Meyer, J. I. Flege, J. Falta, and E. Ozbay “Electron transport mechanism in monolayer epitaxial graphene on (6√3 x6√3)R30° reconstructed 6H-SiC(0001)”
 * K. Elibol, B. Sarikavak-Lisesivdin, C. Gunes, A. F. Kuloglu, S. B. Lisesivdin and M. Kasap “Numerical and Analytical Investigation of the Effects of InAlN/AlGaN Barrier in GaN-Based HEMTs”
 * I. Kara, O. Yalcinkaya, S. B. Lisesivdin, M. Kasap ” Analysis Of The Number Of Shots Using Graphite Furnace Atomic Absorption Spectrometry On The Gunshot Residues Deposited in The Barrel”
+* G. Atmaca, K. Elibol, B. Sarikavak Lisesivdin, S. B. Lisesivdin, M. Kasap, E. Ozbay “Two Dimensional Electron Gas in InAlN/GaN Double Barrier Heterostructures" 
 
 *: With respect to [old good days](http://en.wikipedia.org/wiki/Workbench_%28AmigaOS%29).
