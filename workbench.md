@@ -17,14 +17,20 @@ You can find published articles at the [Publications](publications.md).
 
 * P. Narin, E. Arslan, M. Ozturk, S. B. Lisesivdin, E. Ozbay "Scattering Analysis of Ultrathin Barrier (< 7 nm) GaN-based Heterostructures" APA
 
+* P.Narin, J. M. All Abbas, G. Atmaca, E. Kutlu, S. B. Lisesivdin, E. Ozbay "b initio Study of Electronic Properties of Armchair Graphene Nanoribbons Passivated with Heavy Metal Elements" SSC
+
 ### Submitted Works
 
 * E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effect of Magnesium Content and Growth Temperature on Structural and Optical Properties of USCVD grown MgZnO films" TSF
+
 * R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay "Investigation of Electronic and Optical Properties of MgZnO using DFT+U Formalism" SSE
-* P.Narin, J. M. All Abbas, G. Atmaca, E. Kutlu, S. B. Lisesivdin, E. Ozbay "First Principle Calculations of Armchair Graphene Nanoribbons Passivated with Heavy Metals" SSC
+
 * P. Narin, E. Kutlu, S. B. Lisesivdin "Growth Behaviours of ZnO Nanostructures grown by Ultrasonic Spray CVD on SiO2" 
+
 * G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "The Dependence of Hot-Electron Temperature and Hot-Phonon Lifetime on Electric Field in GaN-based Heterostructures" PSS
+
 * E. Kutlu1, P. Narin, A. Yildiz, S. B. Lisesivdin "Effects of Annealing on Structural and Optical Properties of ZnO grown on different Substrates" MSEB
+
 * G. Atmaca et al. "Molarity effect of precursor solution ZnO" 
 
 
