@@ -15,6 +15,10 @@ Cites:597, h-index:14 (from Web of Science as of October 2018).
 
 ## SCI-Articles
 
+66 P. Narin, E. Arslan, M. Ozturk, M. Ozturk, S. B. Lisesivdin, E. Ozbay "Scattering analysis of ultrathin barrier (< 7 nm) GaN-based heterostructures"  Appl. Phys. A Mater. Sci. Process. 125, 278 (2019).
+
+65 J. M. All Abbas, P. Narin, E. Kutlu, S. B. Lisesivdin, E. Ozbay "Electronic properties of Zigzag ZnO nanoribbons with Hydrogen and Magnesium passivations"  Physica B 556, (2019).
+
 64  J.-H. Lee, J.-M. Ju, G. Atmaca, J.-G. Kim, S.-H. Kang, Y. S. Lee, S.-H. Lee, J.-W. Lim, H.-S. Kwon, S. B. Lisesivdin,J.-H. Lee " High Figure-of-Merit (V2BR/RON) AlGaN/GaN Power HEMT With Periodically C-Doped GaN Buffer and AlGaN Back Barrier" IEEE J. Electron Dev. Soc. 6, 1179 (2018).
 
 63 Ö. Ömeroğlu, E. Kutlu, P. Narin, S. B. Lisesivdin, E. Ozbay "Electronic Properties of Graphene Nanoribbons Doped with Zinc, Cadmium, Mercury Atoms" Physica E 104, 124 (2018).
