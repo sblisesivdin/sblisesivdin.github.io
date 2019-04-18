@@ -13,10 +13,6 @@ You can find published articles at the [Publications](publications.md).
 
 ### Accepted Works
 
-* J.M. All Abbas, P. Narin, E. Kutlu, S. B. Lisesivdin, E. Ozbay "Electronic properties of Zigzag ZnO nanoribbons with Hydrogen and Magnesium passivations" Physica B
-
-* P. Narin, E. Arslan, M. Ozturk, S. B. Lisesivdin, E. Ozbay "Scattering Analysis of Ultrathin Barrier (< 7 nm) GaN-based Heterostructures" APA
-
 * P.Narin, J. M. All Abbas, G. Atmaca, E. Kutlu, S. B. Lisesivdin, E. Ozbay "b initio Study of Electronic Properties of Armchair Graphene Nanoribbons Passivated with Heavy Metal Elements" SSC
 
 ### Submitted Works
