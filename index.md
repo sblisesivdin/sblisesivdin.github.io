@@ -16,7 +16,7 @@ layout: default
   * http://sblisesivdin.lrgresearch.org
   * https://www.linkedin.com/in/sblisesivdin
 * More information [about](about.md) me…
-* [Latest available CV](files/SBLisesivdin-CV-Feb2019.pdf) (January 2019).
+* [Latest available CV](files/SBLisesivdin-CV-Apr2019.pdf) (April 2019).
 
 ## Recent News
 
