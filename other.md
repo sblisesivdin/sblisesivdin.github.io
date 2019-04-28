@@ -16,7 +16,7 @@ We got 3 new publications in 2013:
 Thanks to all colleagues, who made these publications possible.
 
  
- ### XIX. Solid State Matter Physics Ankara Meeting and COST MP0805 Final Meeting
+### XIX. Solid State Matter Physics Ankara Meeting and COST MP0805 Final Meeting
 
 *2014-01-01 20:32*
 
