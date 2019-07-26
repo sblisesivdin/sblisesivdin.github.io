@@ -5,15 +5,12 @@
 You can find accepted and submitted articles at the [recent studies](workbench.md). Corrigenda and errata are at the bottom of this page. You can post errors to sblisesivdin-AT-gmail.com. The articles are copyrighted (©) by the respective publishers. Please do not hesitate to contact to obtain author copies of the articles.
 
 ## Cites and h-index
+
 Cites:597, h-index:14 (from Web of Science as of October 2018).
 
-## Books and Book Chapters
-
-2 S. B. Lisesivdin, B. Sarikavak-Lisesivdin, E. Ozbay “Chapter 15: The Effects of the Interaction of Transition Metals on the Electronic Properties of the Graphene Nanosheets and Nanoribbons” Graphene Science Handbook Vol.3, CRCPress, Taylor&Francis, (2016).
-
-1 E. L. Wolf, M. Medikonda, (Transl. eds: B. Sarikavak-Lisesivdin, S. B. Lisesivdin) “Nanoteknoloji Devrimini Anlamak” Nobel Yayınevi, (2014).
-
 ## SCI-Articles
+
+67 P.Narin, J. M. All Abbas, G. Atmaca, E. Kutlu, S. B. Lisesivdin, E. Ozbay "Ab initio Study of Electronic Properties of Armchair Graphene Nanoribbons Passivated with Heavy Metal Elements" Solid State Commun. 296, 8 (2019). 
 
 66 P. Narin, E. Arslan, M. Ozturk, M. Ozturk, S. B. Lisesivdin, E. Ozbay "Scattering analysis of ultrathin barrier (< 7 nm) GaN-based heterostructures"  Appl. Phys. A Mater. Sci. Process. 125, 278 (2019).
 
@@ -332,6 +329,11 @@ Cites:597, h-index:14 (from Web of Science as of October 2018).
 2   S. B. Lisesivdin, U. Yurdugul, S. Demirezen, S. Acar and M. Kasap “Galvanomagnetic measurements of LEC grown Te-doped InSb” XI. Solid State Matter Physics Ankara Meeting, P-46, p79 (2004).
 
 1   I. Kara, S. B. Lisesivdin, S. Acar and M. Kasap “Temperature depence of magnetotransport and electrotransport properties of LEC grown S-doped InAs” XI. Solid State Matter Physics Ankara Meeting, P-34, p 67 (2004).
+
+## Books and Book Chapters
+2 S. B. Lisesivdin, B. Sarikavak-Lisesivdin, E. Ozbay “Chapter 15: The Effects of the Interaction of Transition Metals on the Electronic Properties of the Graphene Nanosheets and Nanoribbons” Graphene Science Handbook Vol.3, CRCPress, Taylor&Francis, (2016).
+
+1 E. L. Wolf, M. Medikonda, (Transl. eds: B. Sarikavak-Lisesivdin, S. B. Lisesivdin) “Nanoteknoloji Devrimini Anlamak” Nobel Yayınevi, (2014).
 
 ## Errata and Corrigenda
 > "Admitting error clears the score, and proves you wiser than before." Arthur Guiterman, 1871-1943
