@@ -13,7 +13,7 @@ You can find published articles at the [Publications](publications.md).
 
 ### Accepted Works
 
-* P.Narin, J. M. All Abbas, G. Atmaca, E. Kutlu, S. B. Lisesivdin, E. Ozbay "b initio Study of Electronic Properties of Armchair Graphene Nanoribbons Passivated with Heavy Metal Elements" SSC
+* n/a
 
 ### Submitted Works
 
