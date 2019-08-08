@@ -6,7 +6,7 @@ You can find accepted and submitted articles at the [recent studies](workbench.m
 
 ## Cites and h-index
 
-Cites:597, h-index:14 (from Web of Science as of October 2018).
+Cites:668, h-index:15 (from Web of Science as of August 2019).
 
 ## SCI-Articles
 
