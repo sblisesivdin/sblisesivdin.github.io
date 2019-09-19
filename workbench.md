@@ -19,13 +19,13 @@ You can find published articles at the [Publications](publications.md).
 
 * E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effect of Magnesium Content and Growth Temperature on Structural and Optical Properties of USCVD grown MgZnO films" PE
 
-* R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay "Investigation of Electronic and Optical Properties of MgZnO using DFT+U Formalism" SSE
+* R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay "Investigation of Electronic and Optical Properties of MgZnO using DFT+U Formalism" PML
 
 * P. Narin, E. Kutlu, S. B. Lisesivdin "Growth Behaviours of ZnO Nanostructures grown by Ultrasonic Spray CVD on SiO2" 
 
 * G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "The Dependence of Hot-Electron Temperature and Hot-Phonon Lifetime on Electric Field in GaN-based Heterostructures" PSS
 
-* E. Kutlu1, P. Narin, A. Yildiz, S. B. Lisesivdin "Effects of Annealing on Structural and Optical Properties of ZnO grown on different Substrates" MSEB
+* E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effects of Annealing on Structural and Optical Properties of ZnO grown on different Substrates" MSEB
 
 * G. Atmaca et al. "Molarity effect of precursor solution ZnO" 
 
