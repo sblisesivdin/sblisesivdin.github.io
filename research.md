@@ -56,7 +56,8 @@
 * 2004               Member of organizing group of 11th Condensed Matter Ankara Meeting at Gazi University, Ankara, Turkey.
 
 ### Professional Services
-* **Editorial Board Member:** PLOS ONE (SCI-indexed. 2012 IF: 3.730)
+* **Editorial Board Member:** PLOS ONE (SCI-indexed), Advances in Condensed Matter Physics (SCI-indexed)
+* **Past Editorial Board Member:** Advances in Optoelectronics (eSCI-indexed)
 * **Guest Editor:** Advances in Materials Science and Engineering (SCI-indexed. 2012 IF:0.500)
 * **Reviewer:** Journal of Physics D – Applied Physics, Semiconductor Science and Technology, Applied Physics Letters, Physica E and Physica B.
 
