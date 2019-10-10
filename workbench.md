@@ -21,7 +21,7 @@ You can find published articles at the [Publications](publications.md).
 
 * R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay "Investigation of Electronic and Optical Properties of MgZnO using DFT+U Formalism" PML
 
-* P. Narin, E. Kutlu, S. B. Lisesivdin "Growth Behaviours of ZnO Nanostructures grown by Ultrasonic Spray CVD on SiO2" 
+* P. Narin, E. Kutlu, S. B. Lisesivdin "Growth dynamics of mist-CVD grown ZnO Nanoplatelets" 
 
 * G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "The Dependence of Hot-Electron Temperature and Hot-Phonon Lifetime on Electric Field in GaN-based Heterostructures" PSS
 
