@@ -15,7 +15,7 @@ layout: default
   * bora@gazi.edu.tr
   * http://sblisesivdin.lrgresearch.org
   * https://www.linkedin.com/in/sblisesivdin
-* More information [about](about.md) me…
+* More information [about](about.md) me...
 * [Latest available CV](files/SBLisesivdin-CV-July2019.pdf) (July 2019).
 
 ## Recent News
