@@ -6,7 +6,7 @@ layout: default
 
 ## Contact Information
 
-<img align="right" src="files/SeferBoraLisesivdin.jpg">
+<img align="right" src="files/sbl.jpg">
 
 * Department of Physics, Gazi University, Ankara, Turkey 06500
   * Laboratory: Lab Building Room 335
