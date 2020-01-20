@@ -59,9 +59,9 @@ These small scripts/codes are dated back to when I was a BSc student.
 
 ### Softwares that still can be used
 
-* **Wikepage Opus 14 v.2008.1 (2004-2008):** It is a multi-language blog-wiki hybrid derived from Wiksis. It released 14 versions. After transferring the development responsibilities of the software, there was no new releases. It is a simple and strong script. I personally used to built nearly 10 sites from company sites to university department sites. I am seeing that still (2019) it is downloaded and used as is.
+* **[Wikepage Opus 14 v.2008.1 (2004-2008)](http://www.wikepage.org):** It is a multi-language blog-wiki hybrid derived from Wiksis. It released 14 versions. After transferring the development responsibilities of the software, there was no new releases. It is a simple and strong script. I personally used to built nearly 10 sites from company sites to university department sites. I am seeing that still (2019) it is downloaded and used as is.
 
 ### Softwares in active development
 
-* **Aestimo 1D v.1.2 (2012-...):** Aestimo is a one-dimensional (1D) self-consistent Schrödinger-Poisson solver for semiconductor heterostructures. Aestimo is started as a hobby at the beginning of 2012, and become an usable tool which can be used as a co-tool in an educational and/or scientific work. 
-* **Dehapad v.4.0 (2016-...):** Dehapad is a really very simple - light notepad application. It is not for programmers or writers.  It has a sidebar mode, encryption-decryption and some other interesting features, that you can not find in many text editors. It is my current "hobby".
+* **[Aestimo 1D v.1.2 (2012-...)](http://www.aestimosolver.org):** Aestimo is a one-dimensional (1D) self-consistent Schrödinger-Poisson solver for semiconductor heterostructures. Aestimo is started as a hobby at the beginning of 2012, and become an usable tool which can be used as a co-tool in an educational and/or scientific work. 
+* **[Dehapad v.4.0 (2016-...)](https://sblisesivdin.github.io/dehapad):** Dehapad is a really very simple - light notepad application. It is not for programmers or writers.  It has a sidebar mode, encryption-decryption and some other interesting features, that you can not find in many text editors. It is my current "hobby".
