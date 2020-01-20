@@ -13,13 +13,11 @@ You can find published articles at the [Publications](publications.md).
 
 ### Accepted Works
 
-* n/a
+* R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay “Investigation of electronic and optical properties of wurtzite MgZnO using GGA + U formalism” PML
 
 ### Submitted Works
 
 * E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effect of Magnesium Content and Growth Temperature on Structural and Optical Properties of USCVD grown MgZnO films" PE
-
-* R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay "Investigation of Electronic and Optical Properties of MgZnO using DFT+U Formalism" PML
 
 * P. Narin, E. Kutlu, S. B. Lisesivdin "Growth dynamics of mist-CVD grown ZnO Nanoplatelets" 
 
