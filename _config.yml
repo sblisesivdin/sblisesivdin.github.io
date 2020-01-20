@@ -10,8 +10,14 @@ plainwhite:
     github: sblisesivdin
     linkedIn: "in/sblisesivdin" # format: locale/username
   navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
-      url: "/resume"
+    - title: About
+      url: "/about.html"
+    - title: Other
+      url: "/other.html"
+    - title: Research
+      url: "/research.html"
+    - title: Publications
+      url: "/publications.html"
+    - title: Workbench
+      url: "/workbench.html"
 
