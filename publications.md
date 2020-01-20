@@ -1,4 +1,3 @@
-[Home](index.md) |[About](about.md) | [Other](other.md) | [Research](research.md) | [Publications](publications.md) | [Workbench](workbench.md) 
 
 > "The heart of science is publication and refutation. The difference between an alchemist and a scientist is that alchemists don't publish their findings..." Cory Doctorow, 2005. (Permalink)
 

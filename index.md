@@ -1,8 +1,3 @@
----
-layout: default
----
-
-[Home](index.md) |[About](about.md) | [Other](other.md) | [Research](research.md) | [Publications](publications.md) | [Workbench](workbench.md) 
 
 ## Contact Information
 

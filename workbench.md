@@ -1,4 +1,3 @@
-[Home](index.md) |[About](about.md) | [Other](other.md) | [Research](research.md) | [Publications](publications.md) | [Workbench](workbench.md) 
 
 > "Namus, şeref, onur, hepsi güzel ama, en önemlisi helal alınteri." Barış Manço, 1983.
 
