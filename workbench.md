@@ -36,3 +36,32 @@ You can find published articles at the [Publications](publications.md).
 * G. Atmaca, K. Elibol, B. Sarikavak Lisesivdin, S. B. Lisesivdin, M. Kasap, E. Ozbay “Two Dimensional Electron Gas in InAlN/GaN Double Barrier Heterostructures" 
 
 *: With respect to [old good days](http://en.wikipedia.org/wiki/Workbench_%28AmigaOS%29).
+
+## Codes
+
+In addition to my professional studies, I like to code as a hobby. Here, you can find some programs and small scripts that I coded/developed mostly alone. 
+
+Since my childhood, I am interested in programming. I started with Basic V.2.0 of Commodore 64. Then mainly AROS on Amiga, Fortran, Perl, PHP, Pascal (Delphi), Python and FreePascal (Lazarus) on PC. Sometimes, it was a wiki engine, sometimes a X-ray diffraction analysis software and sometimes cheesy codes. I can not define myself a good coder, just a old headed hobbyist try to do something without using object-oriented programming chaos.
+
+### Out-dated software
+
+These small scripts/codes are dated back to when I was a BSc student.
+
+* **LiesHeCount v.2.0 (1999):** Simple Multipage Counter Script (453 bytes ZIPped!) Very simple, page counter for multiple pages. Coded in Perl.  There must be a third version which can detect pages automatically. I can't find it.
+* **CyBanner v.0.1.3, (2000):** Simple Banner Rotation Script(2077 bytes ZIPped) Very simple, picture banner rotation and statistics system. Coded in Perl.
+* **PICtoASCII v.0.1.2 (2001):** Windows program for transforming BMP files to ASCII art. Coded in Delphi.
+* **IcePLOT v.3.0 (2002):** A X-Ray Diffraction Analysis software package coded on Delphi. Software was a successor of v.20 which was coded on Labview. It was done as BSc senior year project. 
+* **CPS CP/BL v.1.0 (2002):** A PHP script for web-based translation of PO files. 
+* **Accsis v.1.0 (2002):** A small PHP CRUD generator that I coded for a medical society in Turkey.
+* **Tisis  v.1.0 (2002):** A small e-commerce script, which is forked from MyMarket script, working with PayPal.
+* **Wiksis v.1.1 (2003):** A small wiki engine forked from TipiWiki. It will be called Wikepage after v.1.1.
+* **Websis v.1.0 (2003):** A CMS forked from AWF. Abandoned after working on Wiksis/Wikepage.
+
+### Softwares that still can be used
+
+* **Wikepage Opus 14 v.2008.1 (2004-2008):** It is a multi-language blog-wiki hybrid derived from Wiksis. It released 14 versions. After transferring the development responsibilities of the software, there was no new releases. It is a simple and strong script. I personally used to built nearly 10 sites from company sites to university department sites. I am seeing that still (2019) it is downloaded and used as is.
+
+### Softwares in active development
+
+* **Aestimo 1D v.1.2 (2012-...):** Aestimo is a one-dimensional (1D) self-consistent Schrödinger-Poisson solver for semiconductor heterostructures. Aestimo is started as a hobby at the beginning of 2012, and become an usable tool which can be used as a co-tool in an educational and/or scientific work. 
+* **Dehapad v.4.0 (2016-...):** Dehapad is a really very simple - light notepad application. It is not for programmers or writers.  It has a sidebar mode, encryption-decryption and some other interesting features, that you can not find in many text editors. It is my current "hobby".
