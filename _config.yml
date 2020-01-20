@@ -1,4 +1,17 @@
-title: Prof Dr Sefer Bora Lisesivdin
-description: BSc (Eng), MSc, PhD, SMIEEE
-show_downloads: true
-theme: jekyll-theme-minimal
+remote_theme: thelehhman/plainwhite-jekyll
+
+plainwhite:
+  name: Prof Dr Sefer Bora Lisesivdin
+  tagline: BSc (Eng), MSc, PhD, SMIEEE
+  date_format: "%b %-d, %Y"
+  analytics_id:UA-156556149-1
+  sitemap: true
+  social_links:
+    github: sblisesivdin
+    linkedIn: in/sblisesivdin # format: locale/username
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
+
