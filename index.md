@@ -14,6 +14,12 @@ layout: home
 * More information [about](about.md) me...
 * [Latest available CV](files/SBLisesivdin-CV-October2019.pdf) (October 2019).
 
+# Some Links
+
+<a href="https://www.lrgresearch.org"><img align="center" src="files/lrg.png"></> 
+<a href="https://www.biarsis.com"><img align="center" src="files/biarsis.png"></> 
+<a href="https://www.aestimosolver.org"><img align="center" src="files/aestimo.png"></> 
+<a href="http://sblisesivdin.github.io/dehapad"><img align="center" src="files/dehapad.png"></>
 
 # Selected Important Papers
 
