@@ -13,7 +13,7 @@ You can find published articles at the [Publications](publications.md).
 
 ### Accepted Works
 
-* R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay “Investigation of electronic and optical properties of wurtzite MgZnO using GGA + U formalism” PML
+* n/a
 
 ### Submitted Works
 
