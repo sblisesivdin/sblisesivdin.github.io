@@ -13,8 +13,6 @@ plainwhite:
   navigation:
     - title: About
       url: "/about.html"
-    - title: Other
-      url: "/other.html"
     - title: Research
       url: "/research.html"
     - title: Publications

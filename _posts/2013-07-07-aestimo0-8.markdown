@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Version 0.8 of the Aestimo solver is released!"
+date:   2013-07-07 11:06:20 +0300
+categories: Code Science
+---
+
+Aestimo Team is proud to release the version 0.8 of Aestimo 1D Self-consistent Schrödinger-Poisson Solver. This version includes many new features, bugfixes and small corrections. The most important feature, which is added to Aestimo recently, is the implementation of strain included valence band calculation with 3×3 k.p model. Also, Numpy version is restructured, input file structure and sample inputs are changed and non-parabolicity of conduction band is implemented (Numpy version only). In addition, database is changed to a more clear-understable structure and exchange interaction potential is implemented (Numpy version only). Logging with timers, some customizations in config and a possibility of looping the simulation over a parameter are also the added to new version. Aestimo can work now with new materials InAs, InP, AlP, GaP and new alloys InGaAs, InGaP, AlInP in addition to GaAs and AlGaAs. The version 0.8 can be downloaded fromhttps://bitbucket.org/sblisesivdin/aestimo/downloads Aestimo is GPL licensed software. We are always open to your contributions. Please use it, issue a bug, help to write use a better user’s manual or commit to source!

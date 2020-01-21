@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Aestimo v.0.9 is released!"
+date:   2013-09-16 18:36:20 +0300
+categories: Code Science
+---
+
+Aestimo Team is proud to release the version 0.9 of Aestimo 1D Self-consistent Schrödinger-Poisson Solver. This version includes many bugfixes, speed improvements, cython code additions, rewritten VBMAT-V part to use numpy better, merging conduction and valance band calculations and more. Code is heavily modified and stabilized. The version 0.9 can be downloaded from https://bitbucket.org/sblisesivdin/aestimo/downloads Aestimo is GPL licensed software. We are always open to your contributions. Please use it, issue a bug, help to write use a better user’s manual or commit to source!
