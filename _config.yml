@@ -1,12 +1,12 @@
 title: "Homesite of Prof S B Lisesivdin, PhD"
 remote_theme: thelehhman/plainwhite-jekyll
+show_excerpts: true
 
 plainwhite:
   name: Prof Sefer Bora Lisesivdin
   tagline: "BSc, MSc, PhD, SMIEEE"
   date_format: "%b %-d, %Y"
   analytics_id: "UA-156556149-1"
-  sitemap: true
   social_links:
     github: sblisesivdin
     linkedIn: "in/sblisesivdin" # format: locale/username
@@ -21,10 +21,9 @@ plainwhite:
 #      url: "/publications.html"
 #    - title: Workbench
 #      url: "/workbench.html"
-
-header_pages:
- - about.md
- - other.md
- - research.md
- - publications.md
- - workbench.md
+  header_pages:
+    - about.md
+    - other.md
+    - research.md
+    - publications.md
+    - workbench.md
