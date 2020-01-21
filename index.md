@@ -16,10 +16,10 @@ layout: home
 
 # Some Links
 
-<a href="https://www.lrgresearch.org"><img align="center" src="files/lrg.png"></> 
-<a href="https://www.biarsis.com"><img align="center" src="files/biarsis.png"></> 
-<a href="https://www.aestimosolver.org"><img align="center" src="files/aestimo.png"></> 
-<a href="http://sblisesivdin.github.io/dehapad"><img align="center" src="files/dehapad.png"></>
+<a href="https://www.lrgresearch.org"><img align="center" src="files/lrg.png"></a> 
+<a href="https://www.biarsis.com"><img align="center" src="files/biarsis.png"></a> 
+<a href="https://www.aestimosolver.org"><img align="center" src="files/aestimo.png"></a> 
+<a href="http://sblisesivdin.github.io/dehapad"><img align="center" src="files/dehapad.png"></a>
 
 # Selected Important Papers
 
