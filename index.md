@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## Contact Information
+# Contact Information
 
 * Department of Physics, Gazi University, Ankara, Turkey 06500
   * Laboratory: Lab Building Room 335
@@ -15,7 +15,7 @@ layout: home
 * [Latest available CV](files/SBLisesivdin-CV-October2019.pdf) (October 2019).
 
 
-## Selected Important Papers
+# Selected Important Papers
 
 (Click [here](publications.md) for full publication list.)
 
