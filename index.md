@@ -1,3 +1,6 @@
+---
+layout: home
+---
 
 ## Contact Information
 
