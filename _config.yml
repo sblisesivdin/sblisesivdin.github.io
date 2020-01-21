@@ -10,20 +10,14 @@ plainwhite:
   social_links:
     github: sblisesivdin
     linkedIn: "in/sblisesivdin" # format: locale/username
-#  navigation:
-#    - title: About
-#      url: "/about.html"
-#    - title: Other
-#      url: "/other.html"
-#    - title: Research
-#      url: "/research.html"
-#    - title: Publications
-#      url: "/publications.html"
-#    - title: Workbench
-#      url: "/workbench.html"
-  header_pages:
-    - about.md
-    - other.md
-    - research.md
-    - publications.md
-    - workbench.md
+  navigation:
+    - title: About
+      url: "/about.html"
+    - title: Other
+      url: "/other.html"
+    - title: Research
+      url: "/research.html"
+    - title: Publications
+      url: "/publications.html"
+    - title: Workbench
+      url: "/workbench.html"
