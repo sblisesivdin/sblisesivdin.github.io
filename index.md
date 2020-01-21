@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Index
+# Welcome to homesite of Prof S B Lisesivdin,
 
 ## Contact Information
 
