@@ -74,26 +74,6 @@ To be eligible for Senior Member status, IEEE members must be engineers, scienti
 IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE’s highly cited publications, conferences, technology standards, and professional and educational activities.
 
 
-### About 2014 Turkish Society of Physics Prof. Dr. Sevket Erk Young Scientist Award.
-
-*12 June 2014*
-
-Turkish Society of Physics has awarded me with the 2014 YEAR OF TURKISH SOCIETY OF PHYSICS PROF. DR. SEVKET ERK YOUNG SCIENTIST AWARD. Award will be presented at the TPS 31. International Physics Congress which will be held at Bodrum, Turkey at July 21st-24th 2014.
-
-
-### Turkish Translation of the book “Understanding Nanotechnology Revolution” is published.
-
-*17 April 2014*
-
-Turkish Translation of the book “Understanding Nanotechnology Revolution” by E. L. Wolf and M. Medikonda is published by Turkish publisher Nobel Yayincilik. For more information please click (TURKISH PAGE). I am one of the translation editors.
-
-
-### New grant received from TUBITAK/RFBR 2532 coded international collaboration programme.
-
-*7 February 2014*
-
-We received the joint grant of Scientific and Technological Research Council of Turkey (TUBITAK) and RFBR of Russia. Project is about manipulation of the properties of two-dimensional electronic gas using insitu surface passivation of AlGaN/GaN heterostructures by molecular beam epitaxy and will be held between 2014-2016. I am the project investigator of the project.
-
 ## Selected Important Papers
 
 (Click [here](publications.md) for full publication list.)
