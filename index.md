@@ -52,27 +52,6 @@ Sefer Bora Lisesivdin, has been appointed to full professor to Gazi University, 
 
 Our new project proposal is accepted by Scientific and Technological Research Council of Turkey (TUBITAK). Project is about the production and electrical characterization of ZnO, MgZnO alloys and a MgZnO/ZnO heterostructures by Chemical Vapour Deposition Method and will be held between 2017-2019. Our aim is to develop more durable, more efficient, environment friendly and economical power transistors. Therefore we called this project D.E.H.A*. In addition, Dr. S. B. Lisesivdin will be the project investigator of the project. *: Durable, Efficient, Healthy and Affordable
 
-### Dr. Lisesivdin Received the TUBA / GEBIP Award
-
-*1 November 2016*
-
-Sefer Bora Lisesivdin, has been awarded with the Turkish Academy of Sciences, Distinguished Young Scientist Award for 2016 in the field of Physics. In the framework of this GEBIP programme of the TUBA, his research activities will be supported for a period of 3 years.
-
-<img align="center" src="files/gebip.jpg">
-
-The objective of TÜBA-GEBIP is to foster young, outstanding scientists who are at the stage of establishing their own research programmes in Turkey after finishing their post-doctoral research activities. TÜBA supports these scientists for a period of three years and helps them set up their own research groups at a stage when they are in need for incentives.
-
-
-### Dr. Lisesivdin Earned IEEE Senior Membership
-
-*29 August 2015*
-
-Sefer Bora Lisesivdin, has been recently elevated to the grade of Senior Member of the IEEE. Senior Member is the highest professional grade of the IEEE for which a member may apply and only about 7 percent of IEEE’s 430,000 members have achieved this level.
-
-To be eligible for Senior Member status, IEEE members must be engineers, scientists, educators, technical executives, or originators in IEEE-designated fields with at least 10 years experience; have experience reflecting professional maturity; and show significant performance over a period of at least five of their years in professional practice.
-
-IEEE is the world’s largest professional association dedicated to advancing technological innovation and excellence for the benefit of humanity. IEEE and its members inspire a global community through IEEE’s highly cited publications, conferences, technology standards, and professional and educational activities.
-
 
 ## Selected Important Papers
 
