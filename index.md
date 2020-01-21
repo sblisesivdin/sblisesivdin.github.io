@@ -14,44 +14,6 @@ layout: home
 * More information [about](about.md) me...
 * [Latest available CV](files/SBLisesivdin-CV-October2019.pdf) (October 2019).
 
-## Recent News
-
-### Dr Lisesivdin earned the Royal Academy of Engineering Scholarship
-
-*19 March 2019*
-
-Dr. Lişesivdin, earned to participate a fellowship program of Royal Academy of Engineering which is called "Leaders in Innovation fellowship". This program is funded by the Ministry of Labor, Energy and Industrial Strategy of the UK: Newton Fund (known as Katip Celebi Fund in Turkey) and directed by the Royal Academy of Engineering.
-
-<img align="center" src="files/raeng-bora.png">
-
-Dr. Lisesivdin attended to an entrepreneurship training in London between 2-16 March 2019 and introduced the his company's business idea to the members of the academy. Close work will be continued within the framework of the academy program.
-
-### Our start-up company application is supported by TUBITAK! 
-
-*17 August 2018*
-
-Our start-up company plan for building UV-VIS-NIR spectrometer is financially supported by TUBITAK! This year TUBITAK received 3323 entrepreneurial business ideas for the Phase 0. Then after, 1438 entrepreneurs from these applications received Phase I support. Of these entrepreneurs prepared by the related organizations in their technical and business development areas, 422 were accepted for panel evaluations in accordance with the application requirements. TUBİTAK conducted by the academicians, industrialists and investors of the panel evaluation of the results of the 146 entrepreneurs were eligible to pass Phase II (result). Our company is one of them! More news are coming soon.
-
-<img align="center" width=500 src="files/teknoparkankara.jpg">
-
-### Our project is passed the first phase of TUBITAK 1003 programme
-
-*09 August 2018*
-
-Our project, which is about to produce the national random number generator upto 40 Gbit/s, is passed the first phase of the TUBITAK 1003 programme. We have already started to finalize the draft of the submission of second phase. Due date for the submissions for the second phase is at November 2018.
-
-### Dr. Lisesivdin appointed as full professor
-
-*21 March 2018*
-
-Sefer Bora Lisesivdin, has been appointed to full professor to Gazi University, Faculty of Science, Department of Physics. Because of previous administration is being found to be the part of an illegal parallel-state organization, all position appointments had been frozen for years. Dr. Lisesivdin waited this appointment more than 1.5 year after fullfillment of all possible professorship criteria.
-
-### Our project proposal is accepted!
-
-*26 November 2016*
-
-Our new project proposal is accepted by Scientific and Technological Research Council of Turkey (TUBITAK). Project is about the production and electrical characterization of ZnO, MgZnO alloys and a MgZnO/ZnO heterostructures by Chemical Vapour Deposition Method and will be held between 2017-2019. Our aim is to develop more durable, more efficient, environment friendly and economical power transistors. Therefore we called this project D.E.H.A*. In addition, Dr. S. B. Lisesivdin will be the project investigator of the project. *: Durable, Efficient, Healthy and Affordable
-
 
 ## Selected Important Papers
 
