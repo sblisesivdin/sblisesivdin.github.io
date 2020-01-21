@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New rank for Dr. Lisesivdin"
+title:  "Dr. Lisesivdin received the title of Associate Professor from UAK"
 date:   2011-10-09 12:44:34 +0300
 categories: Career
 ---
