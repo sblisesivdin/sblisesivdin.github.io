@@ -1,8 +1,9 @@
 ---
 layout: home
 ---
+# Index
 
-# Contact Information
+## Contact Information
 
 * Department of Physics, Gazi University, Ankara, Turkey 06500
   * Laboratory: Lab Building Room 335
@@ -14,14 +15,14 @@ layout: home
 * More information [about](about.md) me...
 * [Latest available CV](files/SBLisesivdin-CV-October2019.pdf) (October 2019).
 
-# Some Links
+## Some Links
 
 <a href="https://www.lrgresearch.org"><img align="center" src="files/lrg.png"></a> 
 <a href="https://www.biarsis.com"><img align="center" src="files/biarsis.png"></a> 
 <a href="https://www.aestimosolver.org"><img align="center" src="files/aestimo.png"></a> 
 <a href="http://sblisesivdin.github.io/dehapad"><img align="center" src="files/dehapad.png"></a>
 
-# Selected Important Papers
+## Selected Important Papers
 
 (Click [here](publications.md) for full publication list.)
 

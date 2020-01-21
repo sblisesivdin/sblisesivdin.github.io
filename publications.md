@@ -1,3 +1,4 @@
+# Publications
 
 > "The heart of science is publication and refutation. The difference between an alchemist and a scientist is that alchemists don't publish their findings..." Cory Doctorow, 2005. (Permalink)
 
