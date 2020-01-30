@@ -7,7 +7,7 @@ layout: home
 
 * Department of Physics, Gazi University, Ankara, Turkey 06500
   * Laboratory: Lab Building Room 335
-  * Office: Class Building Room 302
+  * Office: Class Building Room O-3007
   * Phone: +90 312 202 1391
   * bora@gazi.edu.tr
   * http://sblisesivdin.github.io
