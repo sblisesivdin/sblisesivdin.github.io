@@ -13,7 +13,7 @@ You can find published articles at the [Publications](publications.md).
 
 ### Accepted Works
 
-* n/a
+* E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effects of Annealing under Different Atmospheres on Structural and Optical Properties of USCVD grown ZnO Nanostructures" MSEB
 
 ### Submitted Works
 
@@ -27,7 +27,7 @@ You can find published articles at the [Publications](publications.md).
 
 * G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "The Dependence of Hot-Electron Temperature and Hot-Phonon Lifetime on Electric Field in GaN-based Heterostructures" PSS
 
-* E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effects of Annealing on Structural and Optical Properties of ZnO grown on different Substrates" MSEB
+
 
 * G. Atmaca et al. "Molarity effect of precursor solution ZnO" 
 
