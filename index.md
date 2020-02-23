@@ -3,6 +3,11 @@ layout: home
 ---
 # Welcome,
 
+## Announcement!
+We continuously look for interested students and researchers who want to join the fascinating field of low-dimensional material and device research.
+
+If you are looking for a PhD position, a Masters work in LRG group, please visit our [related page](https://www.lrgresearch.org/members).
+
 ## Contact Information
 
 * Department of Physics, Gazi University, Ankara, Turkey 06500
