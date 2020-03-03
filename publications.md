@@ -10,6 +10,8 @@ Cites:683, h-index:15 (from Web of Science as of October 2019).
 
 ## SCI-Articles
 
+69 E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effects of Annealing under Different Atmospheres on Structural and Optical Properties of USCVD grown ZnO Nanostructures" Mater. Sci. Eng. B 254, 114506 (2020).
+
 68 R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay "Investigation of electronic and optical properties of wurtzite MgZnO using GGA + U formalism", Philos. Mag. Lett. 99, 424 (2019).
 
 67 P.Narin, J. M. All Abbas, G. Atmaca, E. Kutlu, S. B. Lisesivdin, E. Ozbay "Ab initio Study of Electronic Properties of Armchair Graphene Nanoribbons Passivated with Heavy Metal Elements" Solid State Commun. 296, 8 (2019). 
