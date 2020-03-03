@@ -13,7 +13,7 @@ You can find published articles at the [Publications](publications.md).
 
 ### Accepted Works
 
-* E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effects of Annealing under Different Atmospheres on Structural and Optical Properties of USCVD grown ZnO Nanostructures" MSEB
+* n/a
 
 ### Submitted Works
 
