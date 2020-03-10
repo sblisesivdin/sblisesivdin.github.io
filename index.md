@@ -4,8 +4,8 @@ layout: home
 # Welcome,
 
 ## Announcement / Duyuru
-* We continuously look for interested students and researchers who want to join the fascinating field of low-dimensional material and device research. If you are looking for a PhD position, a Masters work in LRG group, please visit our [related page](https://www.lrgresearch.org/members).
-* Düşük boyutlu malzeme ve cihaz araştırmalarının büyüleyici alanına katılmak isteyen ilgilenen öğrencileri ve araştırmacıları sürekli arıyoruz. Bu konularda yüksek lisans ve/veya doktora çalışması gerçekleştirmek istiyorsanız, lütfen [ilgili sayfamızı](https://www.lrgresearch.org/members) ziyaret ediniz.
+* We continuously look for interested students and researchers who want to join the fascinating field of low-dimensional material and device research. If you are looking for a PhD position, a Masters work in LRG group, please visit our [related page](https://www.lrgresearch.org/vacancies).
+* Düşük boyutlu malzeme ve cihaz araştırmalarının büyüleyici alanına katılmak isteyen ilgilenen öğrencileri ve araştırmacıları sürekli arıyoruz. Bu konularda yüksek lisans ve/veya doktora çalışması gerçekleştirmek istiyorsanız, lütfen [ilgili sayfamızı](https://www.lrgresearch.org/vacancies) ziyaret ediniz.
 
 ## Contact Information
 
