@@ -14,8 +14,8 @@ layout: home
   * Office: Class Building Room O-3007
   * Phone: +90 312 202 1391
   * bora@gazi.edu.tr
-  * http://sblisesivdin.github.io
-  * https://www.linkedin.com/in/sblisesivdin
+  * [https://sblisesivdin.github.io](https://sblisesivdin.github.io)
+  * [https://www.linkedin.com/in/sblisesivdin](https://www.linkedin.com/in/sblisesivdin)
 * More information [about](about.md) me...
 * [Latest available CV](files/SBLisesivdin-CV-October2019.pdf) (October 2019).
 
