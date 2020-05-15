@@ -112,40 +112,15 @@ Language of the course is given in parantheses.
 
 ### MSc
 
-12	K. B. Sönmez, (Gazi University, Institute of Science, Advanced Technologies), RF Magnetron Sputter System and Passive Circuit Element Resistor Production and Characterization 2016 - 2019. Advisor.
-
-11	M. T. Haliloğlu, (Gazi University, Institute of Science, Advanced Technologies), Back Side Via Hole Etching Application of SiC for GaN-based Field Effect Transistors 2016 - 2019. Advisor.
-
-10	O. Omeroglu, (Gazi University, Institute of Science, Physics), Investigation of the Electronic Properties of Zn, Cd and Hg-doped Graphene Sheets with Ab-Initio Methods, 2016 - 2018. Advisor.
-
-9	R. Ibrahem, (Gazi University, Institute of Science, Physics), Investigation of Electronic and Optical Properties of Wurtzite MgZnO with First Principles Calculations, 2016 - 2018. Advisor.
-
-8	M. Ozturk, (Gazi University, Institute of Science, Physics), Electrical Characteristics and Scattering Analysis of Ultrathin Barrier GaN-Based High Electron Mobility Transistors, 2015 - 2018. Advisor.
-
-7	J. M. M. J. Al-Abbas, (Gazi University, Institute of Science, Physics),Simulation and optimation of GaN-based ultrathin barrier high electron mobility transistors, 2014 - 2016. Advisor. 
-
-6	E. Kutlu, (Gazi University, Institute of Science, Physics), Investigation of the effects of Cadmium Doping on Electronic and Optical Properties of Graphene Nanoribbons, 2014 -2016. Advisor.
-
-5	A. F. Kuloglu, (Gazi University, Institute of Science, Physics), Investigation of Electronic Properties of Pa-terminated Graphene Nanoribbons, 2010-2012. Advisor.
-
-4	G. Atmaca, (Gazi University, Institute of Science, Physics), Numerical Investigation of the 2-Dimensional Carriers in AlQN/AlN/GaN-Based (Q=Ga, In) Transistors with Multi-Quantum Well Back-Barriers, 2010-2012. Advisor.
-
-3	K. Elibol, (Gazi University, Institute of Science, Physics), Investigation of Magnetoconductivity and Surface Properties of Exfoliated and Epitaxially Grown Graphene Samples, 2010-2012. Advisor.
-
-2	G. Karakoc, (Gazi University, Institute of Science, Physics), Investigating the Electron Transport Properties of AlInN/AlN/(InGaN)/GaN Heterostructures with InGaN Quantum Wells. 2009-2012. Advisor.
-
-1	C. Gunes, (Gazi University, Institute of Science, Physics), Electron and magnetotransport investigation of two dimensional electron gas in ultrathin barrier GaN-based heterostructures. 2009-2012. Advisor.
-* P. Narin, (Gazi University, Institute of Science, Physics), 2015-present. Advisor.
-* G. Atmaca, (Gazi University, Institute of Science, Physics), 2013-present. Advisor.
-
-### MSc
-
-* R. Ibrahem
-* O. Omeroglu
-* J. Al-Abbas
-* E. Kutlu, (Gazi University, Institute of Science, Physics), Investigation of the effects of Cadmium Doping on Electronic and Optical Properties of Graphene Nanoribbons, 2014-present. Advisor.
-* A. F. Kuloglu, (Gazi University, Institute of Science, Physics), Investigation of Electronic Properties of Pa-terminated Graphene Nanoribbons, 2010-2012. Advisor.
-* G. Atmaca, (Gazi University, Institute of Science, Physics), Numerical Investigation of the 2-Dimensional Carriers in AlQN/AlN/GaN-Based (Q=Ga, In) Transistors with Multi-Quantum Well Back-Barriers, 2010-2012. Advisor.
-* K. Elibol, (Gazi University, Institute of Science, Physics), Investigation of Magnetoconductivity and Surface Properties of Exfoliated and Epitaxially Grown Graphene Samples, 2010-2012. Advisor.
-* G. Karakoc, (Gazi University, Institute of Science, Physics), Investigating the Electron Transport Properties of AlInN/AlN/(InGaN)/GaN Heterostructures with InGaN Quantum Wells. 2009-2012. Advisor.
-* C. Gunes, (Gazi University, Institute of Science, Physics), Electron and magnetotransport investigation of two dimensional electron gas in ultrathin barrier GaN-based heterostructures. 2009-2012. Advisor.
+* K. B. Sönmez, (Gazi University, Institute of Science, Advanced Technologies), RF Magnetron Sputter System and Passive Circuit Element Resistor Production and Characterization 2016 - 2019. Advisor.
+*	M. T. Haliloğlu, (Gazi University, Institute of Science, Advanced Technologies), Back Side Via Hole Etching Application of SiC for GaN-based Field Effect Transistors 2016 - 2019. Advisor.
+*	O. Omeroglu, (Gazi University, Institute of Science, Physics), Investigation of the Electronic Properties of Zn, Cd and Hg-doped Graphene Sheets with Ab-Initio Methods, 2016 - 2018. Advisor.
+*	R. Ibrahem, (Gazi University, Institute of Science, Physics), Investigation of Electronic and Optical Properties of Wurtzite MgZnO with First Principles Calculations, 2016 - 2018. Advisor.
+*	M. Ozturk, (Gazi University, Institute of Science, Physics), Electrical Characteristics and Scattering Analysis of Ultrathin Barrier GaN-Based High Electron Mobility Transistors, 2015 - 2018. Advisor.
+*	J. M. M. J. Al-Abbas, (Gazi University, Institute of Science, Physics),Simulation and optimation of GaN-based ultrathin barrier high electron mobility transistors, 2014 - 2016. Advisor. 
+*	E. Kutlu, (Gazi University, Institute of Science, Physics), Investigation of the effects of Cadmium Doping on Electronic and Optical Properties of Graphene Nanoribbons, 2014 -2016. Advisor.
+*	A. F. Kuloglu, (Gazi University, Institute of Science, Physics), Investigation of Electronic Properties of Pa-terminated Graphene Nanoribbons, 2010-2012. Advisor.
+*	G. Atmaca, (Gazi University, Institute of Science, Physics), Numerical Investigation of the 2-Dimensional Carriers in AlQN/AlN/GaN-Based (Q=Ga, In) Transistors with Multi-Quantum Well Back-Barriers, 2010-2012. Advisor.
+*	K. Elibol, (Gazi University, Institute of Science, Physics), Investigation of Magnetoconductivity and Surface Properties of Exfoliated and Epitaxially Grown Graphene Samples, 2010-2012. Advisor.
+*	G. Karakoc, (Gazi University, Institute of Science, Physics), Investigating the Electron Transport Properties of AlInN/AlN/(InGaN)/GaN Heterostructures with InGaN Quantum Wells. 2009-2012. Advisor.
+*	C. Gunes, (Gazi University, Institute of Science, Physics), Electron and magnetotransport investigation of two dimensional electron gas in ultrathin barrier GaN-based heterostructures. 2009-2012. Advisor.
