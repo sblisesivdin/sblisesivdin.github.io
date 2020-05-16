@@ -63,9 +63,12 @@ These small scripts/codes are dated back to when I was a BSc student.
 
 ### Softwares that still can be used
 
-* **[Wikepage Opus 14 v.2008.1 (2004-2008)](http://www.wikepage.org):** It is a multi-language blog-wiki hybrid derived from Wiksis. It released 14 versions. After transferring the development responsibilities of the software, there was no new releases. It is a simple and strong script. I personally used to built nearly 10 sites from company sites to university department sites. I am seeing that still (2019) it is downloaded and used as is.
+* **[Wikepage Opus 14 v.2008.1 (2004-2008)](http://www.wikepage.org):** It is a multi-language blog-wiki hybrid derived from Wiksis. It released 14 versions and used in more than 1000 sites. After transferring the development responsibilities of the software, there was no new releases. It is a simple and strong script. I personally used to built nearly 10 sites from company sites to university department sites. I am seeing that still (2019) it is downloaded and used as is.
 
 ### Softwares in active development
 
-* **[Aestimo 1D v.1.2 (2012-...)](http://www.aestimosolver.org):** Aestimo is a one-dimensional (1D) self-consistent Schrödinger-Poisson solver for semiconductor heterostructures. Aestimo is started as a hobby at the beginning of 2012, and become an usable tool which can be used as a co-tool in an educational and/or scientific work. 
-* **[Dehapad v.4.0 (2016-...)](https://sblisesivdin.github.io/dehapad):** Dehapad is a really very simple - light notepad application. It is not for programmers or writers.  It has a sidebar mode, encryption-decryption and some other interesting features, that you can not find in many text editors. It is my current "hobby".
+* **[Aestimo 1D v.2.0 (2012-...)](http://www.aestimosolver.org):** Aestimo is a one-dimensional (1D) self-consistent Schrödinger-Poisson solver for semiconductor heterostructures. Aestimo is started as a hobby at the beginning of 2012, and become an usable tool which can be used as a co-tool in an educational and/or scientific work. 
+* **[Dehapad v.5.0 (2016-...)](https://sblisesivdin.github.io/dehapad):** Dehapad is a really very simple - light notepad application. It is not for programmers or writers.  It has a sidebar mode, encryption-decryption and some other interesting features, that you can not find in many text editors. It is my current "hobby".
+* **[IRIS v.1.27 (2018-...)](https://www.biarsis.com/products/iris-software):** IRIS is a spectral acquisition and analysis program that is developed specially for Biarsis Argus 1000 series spectrometers. I am the sole developer of this project.
+* **[MOCA v.0.72 (2019-...)](https://www.biarsis.com/):** MOCA is a software for calculating the optical absorbtion/reflection spectrum of multilayer structures. These multilayer structures can be stacks of metals, semiconductors and insulators.
+* **[Folder Queue Manager (FQM) (2020-...)](https://github.com/lrgresearch/Folder-Queue-Manager):** A simple software for adhoc Directory Monitoring, command executing and folder copying/moving software for small tasks.
