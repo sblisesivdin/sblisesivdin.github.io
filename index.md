@@ -17,7 +17,7 @@ layout: home
   * [https://sblisesivdin.github.io](https://sblisesivdin.github.io)
   * [https://www.linkedin.com/in/sblisesivdin](https://www.linkedin.com/in/sblisesivdin)
 * More information [about](about.md) me...
-* [Latest available CV](files/SBLisesivdin-CV-October2019.pdf) (October 2019).
+* [Latest available CV](files/SBLisesivdin-CV-May2020.pdf) (May 2020).
 
 ## Some Links
 

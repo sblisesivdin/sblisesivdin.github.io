@@ -6,7 +6,7 @@ You can find accepted and submitted articles at the [recent studies](workbench.m
 
 ## Cites and h-index
 
-Cites:683, h-index:15 (from Web of Science as of October 2019).
+Cites:740, h-index:15 (from Web of Science as of May 2020).
 
 ## Selected Important Papers
 
@@ -184,6 +184,10 @@ Experimental Hall data that were carried out as a function of temperature (60–
 1   O. Celik, E. Tiras, S. Ardali, S. B. Lisesivdin, E.Ozbay “Determination of the in-plane effective mass and quantum lifetime of 2D electrons in AlGaN/GaN based HEMTs” Phys. Stat. Sol. (c) 8, 1625 (2011).
 
 ## Proceedings
+
+90	S. B. Lisesivdin, J. Lang, F. Jelezko “Spin-coherence time measurements of NV- centers in 15N+, 15N2+ and O+ implanted diamond” Quantum Optics and Informatics Meeting – 4 (Kobit 4), İzmir (2020).
+
+89 B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Ozbay, F. Jelezko “Spin-polarized DFT calculations of nitrogen-vacancy color centers in diamond with various XC potentials” Quantum Optics and Informatics Meeting – 4 (Kobit 4), İzmir (2020).
 
 88	O. Omeroglu, S. B. Lisesivdin, E. Ozbay “The Optical Properties of Group-III Nitrides with LDA-1/2 Approximation” 20th National Workshop on Optics, Electro-optics and Photonics, Ankara, P78, (2018).
 
