@@ -13,19 +13,15 @@ You can find published articles at the [Publications](publications.md).
 
 ### Accepted Works
 
-* n/a
+* H. Hebal, Z. Koziol, S. B. Lisesivdin, R. Steed "General-purpose Open-source 1D Self-consistent Schrödinger-Poisson Solver: Aestimo 1D" Comput. Mater. Sci.
 
 ### Submitted Works
 
-* H. Hebal, Z. Koziol, S. B. Lisesivdin, R. Steed "General-purpose Open-source 1D Self-consistent Schrödinger-Poisson Solver: Aestimo 1D" CMS
 * B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Ozbay, F. Jelezko "Electronic Properties of a new two-dimensional carbon allotrope: N/A" 
 * F. Sonmez, S. Ardali, G. Atmaca, S. B. Lisesivdin, T. Malin, V. Mansurov, K. Zhuravlev, and E. Tiras "The Effect of Passivation Layer, Doping and Spacer Layer on Electron- Longitudinal Optical Phonon Momentum Relaxation Time in Al0.3Ga0.7N/AlN/GaN Heterostructures"
 * E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effect of Magnesium Content and Growth Temperature on Structural and Optical Properties of USCVD grown MgZnO films" PE
 * P. Narin, E. Kutlu, S. B. Lisesivdin "Growth dynamics of mist-CVD grown ZnO Nanoplatelets" 
 * G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "The Dependence of Hot-Electron Temperature and Hot-Phonon Lifetime on Electric Field in GaN-based Heterostructures" PSS
-
-
-
 * G. Atmaca et al. "Molarity effect of precursor solution ZnO" 
 
 
@@ -60,7 +56,7 @@ These small scripts/codes are dated back to when I was a BSc student.
 
 ### Softwares that still can be used
 
-* **[Wikepage Opus 14 v.2008.1 (2004-2008)](http://www.wikepage.org):** It is a multi-language blog-wiki hybrid derived from Wiksis. It released 14 versions and used in more than 1000 sites. After transferring the development responsibilities of the software, there was no new releases. It is a simple and strong script. I personally used to built nearly 10 sites from company sites to university department sites. I am seeing that still (2019) it is downloaded and used as is.
+* **[Wikepage Opus 14 v.2008.1 (2004-2008)](http://www.wikepage.org):** It is a multi-language blog-wiki hybrid derived from Wiksis. It released 14 versions and used in more than 1000 sites. After transferring the development responsibilities of the software, there was no new releases. It is a simple and strong script. I personally used to built nearly 10 sites from company sites to university department sites. I am seeing that still (2019) it is downloaded and used as is. However it may not be %100 compatible with PHP7.
 
 ### Softwares in active development
 
