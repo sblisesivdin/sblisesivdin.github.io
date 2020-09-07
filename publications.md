@@ -37,7 +37,15 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 ## SCI-Articles
 
+### 2021
+
+70 H. Hebal, Z. Koziol, S.B. Lisesivdin, R. Steed "General-purpose open-source 1D self-consistent Schrödinger-Poisson Solver: Aestimo 1D" Comput. Mater. Sci. 186, 110015 (2021).
+
+### 2020
+
 69 E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effects of Annealing under Different Atmospheres on Structural and Optical Properties of USCVD grown ZnO Nanostructures" Mater. Sci. Eng. B 254, 114506 (2020).
+
+### 2019
 
 68 R. Ibrahem, P. Narin, S. B. Lisesivdin, E. Ozbay "Investigation of electronic and optical properties of wurtzite MgZnO using GGA + U formalism", Philos. Mag. Lett. 99, 424 (2019).
 
@@ -46,6 +54,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 66 P. Narin, E. Arslan, M. Ozturk, M. Ozturk, S. B. Lisesivdin, E. Ozbay "Scattering analysis of ultrathin barrier (< 7 nm) GaN-based heterostructures"  Appl. Phys. A Mater. Sci. Process. 125, 278 (2019).
 
 65 J. M. All Abbas, P. Narin, E. Kutlu, S. B. Lisesivdin, E. Ozbay "Electronic properties of Zigzag ZnO nanoribbons with Hydrogen and Magnesium passivations"  Physica B 556, 12 (2019).
+
+### 2018
 
 64  J.-H. Lee, J.-M. Ju, G. Atmaca, J.-G. Kim, S.-H. Kang, Y. S. Lee, S.-H. Lee, J.-W. Lim, H.-S. Kwon, S. B. Lisesivdin,J.-H. Lee " High Figure-of-Merit (V2BR/RON) AlGaN/GaN Power HEMT With Periodically C-Doped GaN Buffer and AlGaN Back Barrier" IEEE J. Electron Dev. Soc. 6, 1179 (2018).
 
@@ -57,6 +67,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 60 E. Kutlu, P. Narin, S. B. Lisesivdin, E. Ozbay "Electronic and optical properties of black phosphorus doped with Au, Sn and I atoms" Philos. Mag. 98, 155 (2018).
 
+### 2017
+
 59 P. Narin, E. Kutlu, G. Atmaca, S. B. Lisesivdin, E. Ozbay "A ﬁrst principles investigation of the effect of aluminum, gallium and indium impurities on optical properties of B-Si3N4 structure" Optik 147, 115 (2017).
 
 58 J. M. Al Abbas, P. Narin, G. Atmaca, E. Kutlu, B. Sarikavak-Lisesivdin, S. B. Lisesivdin "The effect of doping in different layers on 2DEG for ultrathin-barrier AlN/GaN heterostructures" Optoelectron. Adv. Mater.-Rapid Comm. 11, 328 (2017). 
@@ -64,6 +76,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 57 J. M. All Abbas, G. Atmaca, P. Narin, E. Kutlu, B. Sarikavak-Lisesivdin, S. B. Lisesivdin "A Comparative Study of AlGaN and InGaN Back-Barriers in Ultrathin-Barrier AlN/GaN Heterostructures" J. Elec. Mater. 46, 5278 (2017).
 
 56 E. Kutlu, P. Narin, G. Atmaca, B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Ozbay "Electronic structure of β-Si3N4 crystals with substitutional icosagen group impurities" J. Optoelectron. Adv. Mater. 19, 278 (2017). 
+
+### 2016
 
 55 P. Narin, E. Kutlu, B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Özbay “Electronic Properties of Li-doped Zigzag Graphene Nanoribbons” Physica E 84, 543 (2016).
 
@@ -77,6 +91,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 50 G. Atmaca, S. Ardali, P. Narin, E. Kutlu, S. B. Lisesivdin, T. Malin, V. Mansurov, K. Zhuravlev, E. Tiras “Energy relaxation of hot electrons by LO phonon emission in AlGaN/AlN/GaN heterostructure with in situ Si3N4 passivation” J. Alloys Compounds 659, 90 (2016).
 
+### 2015
+
 49 S. Ardali, G. Atmaca, S. B. Lisesivdin, T. Malin, V. Mansurov, K. Zhuravlev, E. Tiras “The variation of temperature dependent carrier concentration and mobility in AlGaN/AlN/GaN heterostructure with SiN passivation” Phys. Stat. Sol. B 252, 1960 (2015).
 
 48 B. Sarikavak-Lisesivdin, S. B. Lisesivdin, N. Balkan, G. Atmaca, P. Narin, H. Cakmak, E. Ozbay “Energy relaxation of electrons in InGaN quantum wells” Metall. Mater. Trans. A 46, 1565 (2015).
@@ -84,6 +100,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 47 G. Atmaca, P. Narin, B. Sarikavak-Lisesivdin, S. B. Lisesivdin, M. Kasap “Electron Transport Properties of Two Dimensional Electron Gas in BexZn1-xO/ZnO Heterostructures” Philos. Mag. 95, 79 (2015).
 
 46 G. Atmaca, P. Tasli, G. Karakoc, E. Yazbahar and S. B. Lisesivdin “Numerical Investigation of the 2DEG Properties of AlGaN/AlN/GaN HEMT Structures with InGaN/GaN MQW Back-Barrier Structure” Physica E 65, 110 (2015).
+
+### 2014
 
 45 O. Donmez, F. Sarcan, S. B. Lisesivdin, M. P. Vaughan, A. Erol, M. Gunes, M. C. Arikan, J. Puustinen and M. Guina, “Analytic modeling of temperature dependence of 2D carrier mobility in as-grown and annealed GaInNAs/GaAs quantum well structures” Semicond. Sci. Technol. 29 125009 (2014).
 
@@ -93,11 +111,15 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 42 S. B. Lisesivdin, N. A. Khan, S. Mazzucato, N. Balkan, M. J. Adams, V.-M. Korpijärvi, M. Guina, G. Mezosi and M. Sorel “Optical gain in 1.3 μm electrically-driven dilute nitride VCSOAs” Nanoscale Res. Lett. 9, 22 (2014).
 
+### 2013
+
 41 K. Elibol, G. Atmaca, P. Tasli and S. B. Lisesivdin “A Numerical Study on Subband Structure of InxAl1-xN/GaN-Based HEMT Structures with Low-Indium (x<0.10) Barrier Layer” Solid State Commun. 162, 8 (2013).
 
 40  A. F. Kuloglu, B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Ozbay “First-principles calculations of Pd-terminated symmetrical armchair graphene nanoribbons” Comp. Mater. Sci. 68, 18 (2013).
 
 39  B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Ozbay “The Effect of InxGa1-xN Back-barriers on the Dislocation Densities in Al0.31Ga0.69N/AlN/GaN/ InxGa1-xN/GaN Heterostructures (0.05 ≤ x ≤ 0.14)” Cur. Appl. Phys. 13, 224 (2013).
+
+### 2012
 
 38  B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Ozbay “Ab initio study of Ru-terminated and Ru-doped armchair graphene nanoribbons” Mol. Phys. 110, 2295 (2012).
 
@@ -105,9 +127,13 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 36  O. Celik, E. Tiras, S. Ardali, S. B. Lisesivdin, E. Ozbay “Determination of the LO phonon energy by using electronic and optical methods in AlGaN/GaN” Cent. Eur. J. Phys. 10, 485 (2012).
 
+### 2011
+
 35  O. Kelekci, S. B. Lisesivdin, S.Ozcelik, E. Ozbay “Numerical optimization of In-mole fraction and layer thicknesses in AlxGa1-xN/AlN/GaN high electron mobility transistors with InGaN back barrier” Physica B 406, 1513 (2011).
 
 34  A. Yildiz, P. Tasli, B. Sarikavak, S. B. Lisesivdin, M. K. Ozturk, M. Kasap, S. Ozcelik, E. Ozbay “Grain boundary related electrical transport in Al-rich AlxGa1-xN layers grown by metal organic chemical vapor deposition” Semiconductors+ 45, 33 (2011).
+
+### 2010
 
 33  H. Yu, S. B. Lisesivdin, B. Bolukbas, O. Kelekci, M. K. Ozturk, S. Ozcelik, D. Caliskan, M. Ozturk, H. Cakmak, P. Demirel and E. Ozbay “Improvement of breakdown characteristics in AlGaN/GaN/AlxGa1−xN HEMT based on a grading AlxGa1−xN buffer layer” Phys. Stat. Sol. a 207, 2593 (2010).
 
@@ -131,6 +157,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 23  P. Tasli, S. B. Lisesivdin, A. Yildiz, M. Kasap, E. Arslan, E. Özbay, and S. Özcelik “Well parameters of the two-dimensional electron gas in Al0.88In0.12N/AlN/GaN/AlN heterostructures grown by MOCVD” Cryst. Res. Tech. 45, 133 (2010).
 
+### 2009
+
 22  S. B. Lisesivdin, E. Ozbay “Effect of various pseudomorphic AlN layer insertions on the electron densities of two-dimensional electron gas in lattice-matched In0.18Al0.82N/GaN based heterostructures” Optoelectron. Adv. Mater.: Rapid. Comm. 3, 904 (2009).
 
 21  A. Yildiz, S. B. Lisesivdin, H. Altuntas, M. Kasap and S. Ozcelik “Electrical conduction properties of Si δ-doped GaAs grown by MBE” Physica B 404, 4202 (2009).
@@ -151,6 +179,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 13  A. Yildiz, S. B. Lisesivdin, M. Kasap, M. Bosi “Anomalous temperature dependence of the electrical resistivity in  In0.17Ga0.83N” Solid State Commun. 149, 337 (2009).
 
+### 2008
+
 12  A. Yildiz, S. B. Lisesivdin, M. Kasap, D. Mardare “Electrical Properties of TiO2 Thin Films” J. Non-Crys. Solids 354, 4944 (2008).
 
 11  S. B. Lisesivdin, S. Demirezen, M. D. Caliskan, A. Yildiz, M. Kasap, S. Ozcelik and E. Ozbay “Growth parameters investigation of Al0.25Ga0.75N/GaN/AlN heterostructures with Hall Effect Measurements” Semicond. Sci. Technol. 23, 095008 (2008).
@@ -162,6 +192,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 8   A. Yildiz, F. Dagdelen, S. Acar, S. B. Lisesivdin, M. Kasap, Y. Aydogdu and M. Bosi “Stokes shift and bandgap bowing in InxGa1-xN (0.060 ≤ x ≤ 0.105) grown by MOVPE” Acta Physica Pol. (a) 113, 731 (2008).
 
 7   S. B. Lisesivdin, E. Arslan, M. Kasap, S. Ozcelik and E. Ozbay, “Self-consistent scattering analysis of Al0.2Ga0.8N/AlN/GaN/AlN heterostructures grown on 6H-SiC substrates using photo-Hall effect measurements” J. Phys.: Condens. Matt. 20, 045208 (2008).
+
+### 2007
 
 6   S. B. Lisesivdin, A. Yildiz and M. Kasap, “Optimization of alloy composition, interlayer and barrier thicknesses in AlxGa1-xN/(AlN)/GaN high electron mobility transistors” Opt. Adv. Mater.-Rapid Comm. 1 (9), 467 (2007).
 
@@ -177,17 +209,25 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 ## SCI Technical Notes
 
+### 2015
+
 1 I. Kara, S. B. Lisesivdin, M. Kasap, E. Er, U. Uzek “The Relationship between the Surface Morphology and Chemical Composition of Gunshot Residue Particles” J. Foren. Sci. 60, 1030 (2015).
 
 ## Non-SCI Articles
+
+### 2011
 
 1   O. Celik, E. Tiras, S. Ardali, S. B. Lisesivdin, E.Ozbay “Determination of the in-plane effective mass and quantum lifetime of 2D electrons in AlGaN/GaN based HEMTs” Phys. Stat. Sol. (c) 8, 1625 (2011).
 
 ## Proceedings
 
+### 2020
+
 90	S. B. Lisesivdin, J. Lang, F. Jelezko “Spin-coherence time measurements of NV- centers in 15N+, 15N2+ and O+ implanted diamond” Quantum Optics and Informatics Meeting – 4 (Kobit 4), İzmir (2020).
 
 89 B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Ozbay, F. Jelezko “Spin-polarized DFT calculations of nitrogen-vacancy color centers in diamond with various XC potentials” Quantum Optics and Informatics Meeting – 4 (Kobit 4), İzmir (2020).
+
+### 2018
 
 88	O. Omeroglu, S. B. Lisesivdin, E. Ozbay “The Optical Properties of Group-III Nitrides with LDA-1/2 Approximation” 20th National Workshop on Optics, Electro-optics and Photonics, Ankara, P78, (2018).
 
@@ -211,6 +251,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 78	M. T. Haliloglu, S. B. Lisesivdin, E. Ozbay “Back-Side Via Etching Application of SiC for GaN-Based Transistors” 1st Light and Light-Based Technologies Workshop, Ankara, p51 (2018).
 
+### 2017
+
 77 S. Mutlu, S. B. Lisesivdin, A. Erol, E. Tiras "Evoluiton of HELLISH devices: Colorful story of HELLISH Devices from IR to VIS light" Celebrating Naci:The Physics of Optoelectronic Materials and Devices, 27-28 March 2017, Colchester, UK.
 
 76 A. Erol, S. Mutlu, S. B. Lisesivdin, E. Tiras, "Hot electron Transport Based Devices for Optoelectronics" Int. Conf. on Condens. Matt and Mater. Sci., October 11-15 2017, Adana, Turkey. 
@@ -233,6 +275,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 67 P. Narin, J. M. Al Abbas, S. B. Lisesivdin, E. Ozbay, The Effect of Zinc, Cadmium and Hydrogen Terminations on The Electronic Structure of Symetrical AGNRs, P648, Turkish Physical Society 33rd International Physics Congress, September 6-10 2017, Bodrum, Turkey.
 
+### 2016
+
 66    E. Kutlu, P. Narin, G. Atmaca, S. B. Lisesivdin, E. Ozbay “Sn, I, Au gibi Bazı Safsızlıkların Siyah Fosfor’un Elektronik ve Optik Özelliklerine Etkileri” 18. Ulusal Optik, Elektro-Optik ve Fotonik Çalıştayı, Ankara P26,(2016).
 
 65   P. Narin, E. Kutlu, G. Atmaca, B. Sarıkavak-Lisesivdin, S. B. Lisesivdin, E. Ozbay “Ultraince Bariyere Sahip AlN/GaN ve InAlN/GaN HEMT Yapıların Yapısal ve Yüzey Özelliklerinin İncelenmesi” 18. Ulusal Optik, Elektro-Optik ve Fotonik Çalıştayı, Ankara P72,(2016). 
@@ -248,6 +292,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 60    J. M. Al abbas, P. Narin, G. Atmaca, E. Kutlu, S. B. Lişesivdin, B. Sarıkavak-Lişesivdin "Ultraince Bariyerli AlN/GaN Çoklu Yapılarda Farklı Katmanların 2BEG Üzerine Etkisi"  ADIM Physics Congress V, p.164 (2016). 
 
 59   E. Kutlu, P. Narin, G. Atmaca, J. M. Al abbas, B. Sarıkavak Lişesivdin, S. B. Lişesivdin "Li Katkılı Zigzag Kenarlı Grafen Nano Şeritlerin Elektronik Özelliklerinin İncelenmesi" ADIM Physics Congress V, p.151 (2016).
+
+### 2015
 
 58   E. Tiras, G. Atmaca, S. B. Lisesivdin, S. Ardali, T. Malin, V. Mansurov, K. Zhuravlev, Power-loss Mechanisms in Surface Passivated AlGaN/AlN/GaN Heterojunctions, 11th Conference on Laser and Electro-Optic Pacific Rim, CLEO-PR 2015, 24-28 August, Busan, Korea (2015).
 
@@ -265,6 +311,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 51 S. B. Lisesivdin, G. Atmaca, S. Ardali, E. Tiras, T. Malin, V. Mansurov, K. Zhuravlev “The Effect of in situ Si3N4 Passivation on 2DEG Quantum Well Parameters in AlGaN/GaN Heterostructures IX. Uluslararası Balkan Fizik Birliği Konferansı, p441 (2015).
 
+### 2014
+
 50  S. B. Lisesivdin, “Implementation of Simple Parallel Conduction Extraction Method (SPCEM) for seperating 2D and 3D conduction channels in semiconductor structures”Конференция И Школа Молодых Учёных По Актуальным Проблемам Физики Полупроводниковых Структур, Novosibirsk, 25, (2014).
 
 49  E. Kutlu, P. Narin, G. Atmaca, B. Sarikavak-Lisesivdin, S. B. Lisesivdin “Ab initio study of oxygen and arsenic impurities on non-linear optical properties of β–Si3N4 material”Конференция И Школа Молодых Учёных По Актуальным Проблемам Физики Полупроводниковых Структур, Novosibirsk, 77, (2014).
@@ -277,6 +325,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 45        P. Narin, G. Atmaca, S. B. Lisesivdin, “Effects of ultrathin InGaN channel layer on two dimensional electron gas in hybrid GaN/InGaN/ZnO heterostructures” Turkish Physical Society 31th International Physics Congress, p406 (2014).
 
+### 2013
+
 44  S. B. Lisesivdin, G. Atmaca, E. Arslan, J. Ul-Hassan, E. Janzén, E. Ozbay “SiC üzerine büyütülen grafen yapılarda elektriksel iletim kanallarının ayrıştırılıp incelenmesi XIX. Solid State Matter Physics Ankara Meeting, S13, (2013). [Invited].
 
 43  S.B. Lisesivdin, N. A. Khan , S. Mazzucato , N. Balkan, M. J. Adams “Gain in electrically-driven 1.3 um dilute nitride VCSOAs” COST MP0805 Final Meeting, Istanbul, P17 (2013).
@@ -286,6 +336,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 41  E. Boyalı, P. Narin, G. Atmaca, S. B. Lisesivdin, M. Kasap and S. Ozcelik, “The Investigation of Temperature Dependent Electrical Transport Properties of InxGa1-xP/GaAs”, Turkish Physical Society 30th International Physics Congress, p482 (2013).
 
 40  P. Narin, G. Atmaca, B. Sarıkavak-Lisesivdin, S. B. Lisesivdin, M. Kasap, “A Numerical Investigation on Electronic Properties of Two Dimensional Electron Gas in BexZn1-xO/ZnO Heterostructures”, Turkish Physical Society 30th International Physics Congress, p529 (2013).
+
+### 2012
 
 39  G. Atmaca, P. Tunay Taşlı, S. B. Lişesivdin, “Electron Confinement in Lattice-Matched InAlN/AlN/GaN Heterostructures with AlyGa1-yN Back-barrier”, 8th Nanoscience and Nanotechnology Conference, PP-332 (2012).
 
@@ -299,11 +351,15 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 34  C. Günes, A. F. Kuloglu, S. B. Lisesivdin,  E. Ozbay, “GaN-tabanli HEMT Yapilarin Hareketliligi ve Tasiyici Yogunlugunun Deneysel Incelenmesi” I. Solid State Matter Physics İzmir Meeting, p18 (2012).
 
+### 2011
+
 33  K. Elibol, C. Gunes, A. F. Kuloglu, E. Boyali and S. B. Lisesivdin “A Numerical Study on Effects of InAlN/AlGaN Barrier in InAlN/AlGaN/AlN/GaN-based High Electron Mobility Transistors” Turkish Physical Society XXVIII. International Conference, p711 (2011).
 
 32  K. Elibol, G. Atmaca, O. Kelekci, P. Tasli, E. Ozbay and S. B. Lisesivdin “Self-consistent Transport Properties of Graphene Sheets” Turkish Physical Society XXVIII. International Conference, p710 (2011).
 
 31  G. Karakoc, G. Atmaca, E. Yazbahar, P. Tasli and S. B. Lisesivdin “Numerical Investigation of Two-dimensional Electron Gas in AlGaN/AlN/GaN HEMT with InGaN/GaN Multi-quantum Well Structure” Turkish Physical Society XXVIII. International Conference, p745 (2011).
+
+### 2010
 
 30  K. Elibol, Ö. Kelekçi, G. Atmaca, S. B. Lişesivdin, M. Kasap, S. Özçelik and E. Özbay “Grafen Flake Üretim Yöntemlerinin Geliştirilmesi” XVII. Solid State Matter Physics Ankara Meeting, S2 (2010).
 
@@ -317,6 +373,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 25  O. Kartaloğlu, G. Atmaca, K. Elibol and S. B. Lişesivdin “Erbiyum Katkılı Eklem Diyotun I-V Karakteristiği” XVII. Solid State Matter Physics Ankara Meeting, P46 (2010).
 
+### 2009
+
 24  H. Yu, S. Lisesivdin, B. Bolukbas, O. Kelekci, M. Ozturk, H. Cakmak, P. Demirel and E. Ozbay “Double Heterostructure AlGaN/GaN/AlGaN HEMT Based on Grading AlGaN/AlN Buffer Layer”, 2009 MRS Fall Meeting, I: III-Nitride Materials for Sensing, Energy Conversion, and Controlled Light-Matter Interactions, SESSION I4: Surface and Interface Properties II, I4.9 (2009).
 
 23  A. Ilgaz, S. Gokden, A. Teke, S. Ozcelik, S. B. Lisesivdin, E. Ozbay “Safir ve SiC Uzerine Buyutulmus AlGaN/AlN/GaN HEMT Yapilarindaki Sicak Elektron Dinamiginin Karsilastirilmasi” XVI. Solid State Matter Physics Ankara Meeting, P73(2009).
@@ -329,6 +387,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 19  P. Tasli, S. B. Lisesivdin, M. Kasap, K. Elibol, G. Atmaca, E. Ozbay “A Numerical Study on Subband Structure of AlxIn1-xN/GaN-based HEMT Structures with Low-Indium (x>0.82) Barrier Layer” Turkish Physical Society XXVI. International Conference, p509 (2009).
 
+### 2008
+
 18  A. Yildiz, S. B. Lisesivdin, M. Kasap, S. Özçelik, D. Mardare “Small Polaron Transport In Titanium Dioxide Thin Film” Turkish Physical Society XXV. International Conference, p133 (2008).
 
 17 S. B. Lisesivdin, N. Balkan, O. Makarovsky, A. Patanè, A. Yildiz, M. D. Caliskan, M. Kasap, S. Ozcelik, E. Ozbay “Investigation of the Beating Pattern of Shubnikov-De Haas Oscillations and Spin Splitting in AlGaN/AlN/GaN/AlN Heterostructures” Turkish Physical Society XXV. International Conference, p484 (2008).
@@ -338,6 +398,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 15  S. B. Lisesivdin, N. Balkan, E. Ozbay, “A Simple Parallel Conduction Extraction Method for MODFET’s and Undoped GaN-based HEMTs” Workshop on Recent Advances of Low Dimensional Structures and Devices, p90 (2008).
 
 14  A. Yildiz, S. Eker, S. B. Lisesivdin, M. Kasap, S. Ozcelik, D. Mardare “On the conduction mechanism of TiO2” 8th International Conference on Physics of Advanced Materials, p28 (2008).
+
+### 2007
 
 13  A. Yildiz, H. Altuntas, S. B. Lisesivdin, A. Bengi and M. Kasap “Stokes shift in In0.13Ga0.87N epitaxial layer grown by MOVPE” Turkish Physical Society XXIV. International Conference, p152 (2007).
 
@@ -355,18 +417,27 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 6   S. B. Lisesivdin, A. Yildiz, M. Kasap, and E. Ozbay “Strain Calculations from Hall Measurements in Undoped Al0.25Ga0.75N/GaN HEMT Structures” AIP Conf. Proc. 899 623 (2007).
 
+### 2006
+
 5   S. B. Lisesivdin, S. Acar, M. Kasap “Transport properties of the 2DEG and minority carriers in AlGaN/GaN HEMT Structures grown by MOCVD” XIII. Solid State Matter Physics Ankara Meeting, P-71, p104 (2006).
 
 4   S. Acar, S. B. Lisesivdin, M. Kasap “Two dimensional hole gas (2DHG) formation evidence in AlGaN/GaN/AlN HEMTs” XIII. Solid State Matter Physics Ankara Meeting, P-72, p105 (2006).
 
 3   S. B. Lisesivdin, S. Acar, M. Kasap and S. Ozcelik “QMSA Analysis and Effects of Extreme Space-Charge Scattering on the Mobility in III-V Systems grown by MBE” Turkish Physical Society XXIII. International Conference, p1214 (2005).
 
+### 2004
+
 2   S. B. Lisesivdin, U. Yurdugul, S. Demirezen, S. Acar and M. Kasap “Galvanomagnetic measurements of LEC grown Te-doped InSb” XI. Solid State Matter Physics Ankara Meeting, P-46, p79 (2004).
 
 1   I. Kara, S. B. Lisesivdin, S. Acar and M. Kasap “Temperature depence of magnetotransport and electrotransport properties of LEC grown S-doped InAs” XI. Solid State Matter Physics Ankara Meeting, P-34, p 67 (2004).
 
 ## Books and Book Chapters
+
+### 2016
+
 2 S. B. Lisesivdin, B. Sarikavak-Lisesivdin, E. Ozbay “Chapter 15: The Effects of the Interaction of Transition Metals on the Electronic Properties of the Graphene Nanosheets and Nanoribbons” Graphene Science Handbook Vol.3, CRCPress, Taylor&Francis, (2016).
+
+### 2014
 
 1 E. L. Wolf, M. Medikonda, (Transl. eds: B. Sarikavak-Lisesivdin, S. B. Lisesivdin) “Nanoteknoloji Devrimini Anlamak” Nobel Yayınevi, (2014).
 
