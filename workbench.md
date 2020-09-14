@@ -14,10 +14,10 @@ You can find published articles at the [Publications](publications.md).
 ### Accepted Works
 
 * F. Sonmez, S. Ardali, G. Atmaca, S. B. Lisesivdin, T. Malin, V. Mansurov, K. Zhuravlev, and E. Tiras "The Effect of Passivation Layer, Doping and Spacer Layer on Electron- Longitudinal Optical Phonon Momentum Relaxation Time in Al0.3Ga0.7N/AlN/GaN Heterostructures" Mater. Sci. Semicond. Process.
+* B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Ozbay, F. Jelezko "Structural parameters and electronic properties of 2D carbon allotrope: graphene with a kagome lattice structure" CPL
 
 ### Submitted Works
 
-* B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Ozbay, F. Jelezko "Structural parameters and electronic properties of 2D carbon allotrope: graphene with a kagome lattice structure" CPL
 * E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effect of Magnesium Content and Growth Temperature on Structural and Optical Properties of USCVD grown MgZnO films" PE
 * P. Narin, E. Kutlu, S. B. Lisesivdin "Growth dynamics of mist-CVD grown ZnO Nanoplatelets" 
 * G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "The Dependence of Hot-Electron Temperature and Hot-Phonon Lifetime on Electric Field in GaN-based Heterostructures" PSS
