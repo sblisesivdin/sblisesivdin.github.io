@@ -5,7 +5,7 @@
 ![Image](files/workbench.jpg)
 ## Collaboration Opportunities
 
-I am open to all scientific collaborations. Please do not hesitate to ask, what we can do. I am mostly interested in Electron and magnetotransport properties of III-V group semiconductor materials, Transport properties of low-dimensional systems as Quantum dots (0D), Quantum wires (1D), Quantum wells (2D), transport, strain, quantum parameters of 2 dimensional electron gas (2DEG) and 2 dimensional hole gas (2DHG) of AlGaN/GaN and AlInN/GaN HEMT structures, hot-electron transport phenomena.
+I am open to all scientific collaborations. Please do not hesitate to ask, what we can do. I am mostly interested in Electron and magnetotransport properties of III-V group semiconductor materials, Transport properties of low-dimensional systems as Quantum dots (0D), Quantum wires (1D), Quantum wells (2D), transport, strain, quantum parameters of 2 dimensional electron gas (2DEG) of AlGaN/GaN and AlInN/GaN HEMT structures, hot-electron transport phenomena. Growth, structural analysis, and electrical analysis of mist-CVD grown oxides (ZnO, MgZnO, MgO, Ga2O3, etc.).
 
 ## Recent Works
 
