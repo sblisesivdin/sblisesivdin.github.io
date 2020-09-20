@@ -39,9 +39,11 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 ### 2021
 
-70 H. Hebal, Z. Koziol, S.B. Lisesivdin, R. Steed "General-purpose open-source 1D self-consistent Schrödinger-Poisson Solver: Aestimo 1D" Comput. Mater. Sci. 186, 110015 (2021).
+71 H. Hebal, Z. Koziol, S.B. Lisesivdin, R. Steed "General-purpose open-source 1D self-consistent Schrödinger-Poisson Solver: Aestimo 1D" Comput. Mater. Sci. 186, 110015 (2021).
 
 ### 2020
+
+70 B.Sarikavak-Lisesivdin, S.B.Lisesivdin, E.Ozbay, F.Jelezko "Structural parameters and electronic properties of 2D carbon allotrope: Graphene with a kagome lattice structure" Chem. Phys. Lett. 760, 138006 (2020).
 
 69 E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effects of Annealing under Different Atmospheres on Structural and Optical Properties of USCVD grown ZnO Nanostructures" Mater. Sci. Eng. B 254, 114506 (2020).
 
