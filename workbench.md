@@ -14,7 +14,6 @@ You can find published articles at the [Publications](publications.md).
 ### Accepted Works
 
 * F. Sonmez, S. Ardali, G. Atmaca, S. B. Lisesivdin, T. Malin, V. Mansurov, K. Zhuravlev, and E. Tiras "The Effect of Passivation Layer, Doping and Spacer Layer on Electron- Longitudinal Optical Phonon Momentum Relaxation Time in Al0.3Ga0.7N/AlN/GaN Heterostructures" Mater. Sci. Semicond. Process.
-* B. Sarikavak-Lisesivdin, S. B. Lisesivdin, E. Ozbay, F. Jelezko "Structural parameters and electronic properties of 2D carbon allotrope: graphene with a kagome lattice structure" CPL
 
 ### Submitted Works
 
