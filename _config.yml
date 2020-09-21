@@ -7,6 +7,8 @@ plainwhite:
   tagline: "BSc, MSc, PhD, SMIEEE"
   date_format: "%b %-d, %Y"
   analytics_id: "UA-156556149-1"
+  dark_mode: true
+  search: true
   social_links:
     github: sblisesivdin
     linkedIn: "in/sblisesivdin" # format: locale/username
