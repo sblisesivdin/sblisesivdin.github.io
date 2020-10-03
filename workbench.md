@@ -13,7 +13,7 @@ You can find published articles at the [Publications](publications.md).
 
 ### Accepted Works
 
-* F. Sonmez, S. Ardali, G. Atmaca, S. B. Lisesivdin, T. Malin, V. Mansurov, K. Zhuravlev, and E. Tiras "The Effect of Passivation Layer, Doping and Spacer Layer on Electron- Longitudinal Optical Phonon Momentum Relaxation Time in Al0.3Ga0.7N/AlN/GaN Heterostructures" Mater. Sci. Semicond. Process.
+* n/a
 
 ### Submitted Works
 
@@ -25,10 +25,10 @@ You can find published articles at the [Publications](publications.md).
 
 ### MIA
 
-* K. Elibol, G. Atmaca, S. B. Lisesivdin, M. Kasap, S. Butun, T. Ciuk, W. Strupinski, A. Meyer, J. I. Flege, J. Falta, and E. Ozbay “Electron transport mechanism in monolayer epitaxial graphene on (6√3 x6√3)R30° reconstructed 6H-SiC(0001)”
-* K. Elibol, B. Sarikavak-Lisesivdin, C. Gunes, A. F. Kuloglu, S. B. Lisesivdin and M. Kasap “Numerical and Analytical Investigation of the Effects of InAlN/AlGaN Barrier in GaN-Based HEMTs”
-* I. Kara, O. Yalcinkaya, S. B. Lisesivdin, M. Kasap ” Analysis Of The Number Of Shots Using Graphite Furnace Atomic Absorption Spectrometry On The Gunshot Residues Deposited in The Barrel”
-* G. Atmaca, K. Elibol, B. Sarikavak Lisesivdin, S. B. Lisesivdin, M. Kasap, E. Ozbay “Two Dimensional Electron Gas in InAlN/GaN Double Barrier Heterostructures" 
+* K. Elibol, G. Atmaca, S. B. Lisesivdin, M. Kasap, S. Butun, T. Ciuk, W. Strupinski, A. Meyer, J. I. Flege, J. Falta, and E. Ozbay "Electron transport mechanism in monolayer epitaxial graphene on (6√3 x6√3)R30° reconstructed 6H-SiC(0001)"
+* K. Elibol, B. Sarikavak-Lisesivdin, C. Gunes, A. F. Kuloglu, S. B. Lisesivdin and M. Kasap "Numerical and Analytical Investigation of the Effects of InAlN/AlGaN Barrier in GaN-Based HEMTs"
+* I. Kara, O. Yalcinkaya, S. B. Lisesivdin, M. Kasap "Analysis Of The Number Of Shots Using Graphite Furnace Atomic Absorption Spectrometry On The Gunshot Residues Deposited in The Barrel"
+* G. Atmaca, K. Elibol, B. Sarikavak Lisesivdin, S. B. Lisesivdin, M. Kasap, E. Ozbay "Two Dimensional Electron Gas in InAlN/GaN Double Barrier Heterostructures" 
 
 *: With respect to [old good days](http://en.wikipedia.org/wiki/Workbench_%28AmigaOS%29).
 
