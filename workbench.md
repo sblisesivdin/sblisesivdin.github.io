@@ -38,6 +38,18 @@ In addition to my professional studies, I like to code as a hobby. Here, you can
 
 Since my childhood, I am interested in programming. I started with Basic V.2.0 of Commodore 64. Then mainly AROS on Amiga, Fortran, Perl, PHP, Pascal (Delphi), Python and FreePascal (Lazarus) on PC. Sometimes, it was a wiki engine, sometimes a X-ray diffraction analysis software and sometimes cheesy codes. I can not define myself a good coder, just a old headed hobbyist try to do something without using object-oriented programming chaos.
 
+### Softwares in active development
+
+* **[Aestimo 1D v.2.0 (2012-...)](http://www.aestimosolver.org):** Aestimo is a one-dimensional (1D) self-consistent Schrödinger-Poisson solver for semiconductor heterostructures. Aestimo is started as a hobby at the beginning of 2012, and become an usable tool which can be used as a co-tool in an educational and/or scientific work. 
+* **[Dehapad v.5.0 (2016-...)](https://sblisesivdin.github.io/dehapad):** Dehapad is a really very simple - light notepad application. It is not for programmers or writers.  It has a sidebar mode, encryption-decryption and some other interesting features, that you can not find in many text editors. It is my current "hobby".
+* **[IRIS v.1.27 (2018-...)](https://www.biarsis.com/products/iris-software):** IRIS is a spectral acquisition and analysis program that is developed specially for Biarsis Argus 1000 series spectrometers. I am the sole developer of this project.
+* **[MOCA v.0.72 (2019-...)](https://www.biarsis.com/):** MOCA is a software for calculating the optical absorbtion/reflection spectrum of multilayer structures. These multilayer structures can be stacks of metals, semiconductors and insulators.
+* **[Folder Queue Manager (FQM) (2020-...)](https://github.com/lrgresearch/Folder-Queue-Manager):** A simple software for adhoc Directory Monitoring, command executing and folder copying/moving software for small tasks.
+
+### Softwares that still can be used
+
+* **[Wikepage Opus 14 v.2008.1 (2004-2008)](http://www.wikepage.org):** It is a multi-language blog-wiki hybrid derived from Wiksis. It released 14 versions and used in more than 1000 sites. After transferring the development responsibilities of the software, there was no new releases. It is a simple and strong script. I personally used to built nearly 10 sites from company sites to university department sites. I am seeing that still (2019) it is downloaded and used as is. However it may not be %100 compatible with PHP7.
+
 ### Out-dated software
 
 These small scripts/codes are dated back to when I was a BSc student.
@@ -52,14 +64,3 @@ These small scripts/codes are dated back to when I was a BSc student.
 * **Wiksis v.1.1 (2003):** A small wiki engine forked from TipiWiki. It will be called Wikepage after v.1.1.
 * **Websis v.1.0 (2003):** A CMS forked from AWF. Abandoned after working on Wiksis/Wikepage.
 
-### Softwares that still can be used
-
-* **[Wikepage Opus 14 v.2008.1 (2004-2008)](http://www.wikepage.org):** It is a multi-language blog-wiki hybrid derived from Wiksis. It released 14 versions and used in more than 1000 sites. After transferring the development responsibilities of the software, there was no new releases. It is a simple and strong script. I personally used to built nearly 10 sites from company sites to university department sites. I am seeing that still (2019) it is downloaded and used as is. However it may not be %100 compatible with PHP7.
-
-### Softwares in active development
-
-* **[Aestimo 1D v.2.0 (2012-...)](http://www.aestimosolver.org):** Aestimo is a one-dimensional (1D) self-consistent Schrödinger-Poisson solver for semiconductor heterostructures. Aestimo is started as a hobby at the beginning of 2012, and become an usable tool which can be used as a co-tool in an educational and/or scientific work. 
-* **[Dehapad v.5.0 (2016-...)](https://sblisesivdin.github.io/dehapad):** Dehapad is a really very simple - light notepad application. It is not for programmers or writers.  It has a sidebar mode, encryption-decryption and some other interesting features, that you can not find in many text editors. It is my current "hobby".
-* **[IRIS v.1.27 (2018-...)](https://www.biarsis.com/products/iris-software):** IRIS is a spectral acquisition and analysis program that is developed specially for Biarsis Argus 1000 series spectrometers. I am the sole developer of this project.
-* **[MOCA v.0.72 (2019-...)](https://www.biarsis.com/):** MOCA is a software for calculating the optical absorbtion/reflection spectrum of multilayer structures. These multilayer structures can be stacks of metals, semiconductors and insulators.
-* **[Folder Queue Manager (FQM) (2020-...)](https://github.com/lrgresearch/Folder-Queue-Manager):** A simple software for adhoc Directory Monitoring, command executing and folder copying/moving software for small tasks.
