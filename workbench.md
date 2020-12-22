@@ -22,6 +22,7 @@ You can find published articles at the [Publications](publications.md).
 * G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "The Dependence of Hot-Electron Temperature and Hot-Phonon Lifetime on Electric Field in GaN-based Heterostructures" PSS
 * G. Atmaca et al. "Molarity effect of precursor solution ZnO"
 * H. Mousavi, S. Jalilvand, M. Mirzaei, M. Talaei, and S.B. Lisesivdin" Effects of Random Linear Dislocations on the Mechanical Properties of Finite-Length RNA and DNA" submitted to IJP
+* P. Narin, E. Kutlu-Narin, G. Atmaca, B. Sarikavak-Lisesivdin, S.B. Lisesivdin, E. Ozbay "A Structural Analysis of Ultra-thin Barriers (In)AlN/GaN Heterostructures" pssb
 
 
 ### MIA
