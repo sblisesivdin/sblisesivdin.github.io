@@ -19,7 +19,7 @@ You can find published articles at the [Publications](publications.md).
 
 * E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effect of Magnesium Content and Growth Temperature on Structural and Optical Properties of USCVD grown MgZnO films" PE
 * P. Narin, E. Kutlu, S. B. Lisesivdin "Growth dynamics of mist-CVD grown ZnO Nanoplatelets" 
-* G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "The Dependence of Hot-Electron Temperature and Hot-Phonon Lifetime on Electric Field in GaN-based Heterostructures" PSS
+* G. Atmaca, P. Narin, E. Kutlu, T. Malin, V. Mansurov, K. Zhuravlev, S.B. Lisesivdin, E. Ozbay "An Investigation on The Shortest Ever Hot-Phonon Lifetime and High-Field Transport in AlGaN/GaN Heterostructures" PSS
 * G. Atmaca et al. "Molarity effect of precursor solution ZnO"
 * H. Mousavi, S. Jalilvand, M. Mirzaei, M. Talaei, and S.B. Lisesivdin" Effects of Random Linear Dislocations on the Mechanical Properties of Finite-Length RNA and DNA" submitted to IJP
 * P. Narin, E. Kutlu-Narin, G. Atmaca, B. Sarikavak-Lisesivdin, S.B. Lisesivdin, E. Ozbay "A Structural Analysis of Ultra-thin Barriers (In)AlN/GaN Heterostructures" pssb
