@@ -39,6 +39,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 ### 2021
 
+73 P. Narin, E. Kutlu-Narin, S. B. Lisesivdin "Growth dynamics of mist-CVD grown ZnO Nanoplatelets" Physica B [DOI](https://doi.org/10.1016/j.physb.2021.413028)
+
 72 F. Sonmez, S. Ardali, G. Atmaca, S.B. Lisesivdin, T. Malin, V. Mansurov, K. Zhuravlev, E. Tiras "The effect of passivation layer, doping and spacer layer on electron-longitudinal optical phonon momentum relaxation time in Al0.3Ga0.7N/AlN/GaN heterostructures" Mater. Sci. Semicond. Process. 122, 105449 (2021).
 
 71 H. Hebal, Z. Koziol, S.B. Lisesivdin, R. Steed "General-purpose open-source 1D self-consistent Schrödinger-Poisson Solver: Aestimo 1D" Comput. Mater. Sci. 186, 110015 (2021).
