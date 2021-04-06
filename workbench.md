@@ -13,7 +13,7 @@ You can find published articles at the [Publications](publications.md).
 
 ### Accepted Works
 
-* P. Narin, E. Kutlu, S. B. Lisesivdin "Growth dynamics of mist-CVD grown ZnO Nanoplatelets" Physica B
+* n/a
 
 ### Submitted Works
 
