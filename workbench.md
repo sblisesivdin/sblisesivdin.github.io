@@ -13,7 +13,7 @@ You can find published articles at the [Publications](publications.md).
 
 ### Accepted Works
 
-* n/a
+* F. Sonmez et al. "The effect of barrier layers on 2D electron effective mass in Al<sub>0.3</sub>Ga<sub>0.7</sub>N/AlN/GaN heterostructures" JPCM
 
 ### Submitted Works
 
