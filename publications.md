@@ -39,6 +39,8 @@ Experimental Hall data that were carried out as a function of temperature (60–
 
 ### 2021
 
+75 E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effect of magnesium content and growth temperature on structural and optical properties of USCVD-grown MgZnO films" Appl. Phys. A 127, 367 (2021).
+
 74 F. Sonmez, S. Ardali, S. B. Lisesivdin, T. V. Malin, V. G. Mansurov, K. S. Zhuravlev, E. Tiras "The effect of barrier layers on 2D electron effective mass in Al0.3Ga0.7N/AlN/GaN heterostructures" J. Phys.: Condens. Matt. [DOI](https://doi.org/10.1088/1361-648X/abf8d2) (2021).
 
 73 P. Narin, E. Kutlu-Narin, S. B. Lisesivdin "Growth dynamics of mist-CVD grown ZnO Nanoplatelets" Physica B 614, 413028 (2021).
