@@ -14,7 +14,6 @@ You can find published articles at the [Publications](publications.md).
 ### Accepted Works
 
 * F. Sonmez et al. "The effect of barrier layers on 2D electron effective mass in Al<sub>0.3</sub>Ga<sub>0.7</sub>N/AlN/GaN heterostructures" JPCM
-* E. Kutlu, P. Narin, A. Yildiz, S. B. Lisesivdin "Effect of Magnesium Content and Growth Temperature on Structural and Optical Properties of USCVD grown MgZnO films" PE
 
 ### Submitted Works
 
