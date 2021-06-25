@@ -22,6 +22,7 @@ You can find published articles at the [Publications](publications.md).
 * H. Mousavi, S. Jalilvand, M. Mirzaei, M. Talaei, and S.B. Lisesivdin" Effects of Random Linear Dislocations on the Mechanical Properties of Finite-Length RNA and DNA" submitted to IJP
 * P. Narin, E. Kutlu-Narin, G. Atmaca, B. Sarikavak-Lisesivdin, S.B. Lisesivdin, E. Ozbay "A Structural Analysis of Ultra-thin Barriers (In)AlN/GaN Heterostructures" pssb
 * S. Mutlu, A. Erol, E. Arslan, E. Ozbay, S. B. Lisesivdin, Engin Tiras "A novel hot carrier-induced blue light-emitting device" JAC
+* G. Y. Senguler; E. Kutlu Narin; A. Arslan Alsaç; S. B. Lisesivdin, T. Serin "Influence of thiourea on properties of Cu2CoSnS4  thin films grown by sol-gel method" TSF
 
 ### MIA
 
