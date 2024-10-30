@@ -12,7 +12,7 @@ I'm a physics engineer academic with over twenty years of experience.
 I'm living in Ankara, Türkiye. I am married and a father of a lovely boy.
 
 ## Work
-Presently, I am working as a faculty member at [Gazi University](https://www.gazi.edu.tr) [Department of Physics](https://fizik.gazi.edu.tr/). I am the head of the sub-department of Condensed Matter Physics. In addition, I am the principal investigator of [Low-Dimensional Materials and Systems Research Group](https://lrgresearch.org), where we work on experimental and computational investigations of low-dimensional or bulk systems with defects and impurities. 
+Presently, I am working as a faculty member at [Gazi University](https://www.gazi.edu.tr) [Department of Physics](https://fizik.gazi.edu.tr/). I am the head of the sub-department of Condensed Matter Physics. In addition, I am the principal investigator of [Low-Dimensional Materials and Systems Research Group](https://avesis.gazi.edu.tr/arastirma-grubu/lrg/), where we work on experimental and computational investigations of low-dimensional or bulk systems with defects and impurities. 
 
 More information from [personal (Avesis) page](https://avesis.gazi.edu.tr/bora) given by my university:
 * [Publications](https://avesis.gazi.edu.tr/bora/publications)
