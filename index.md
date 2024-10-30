@@ -25,12 +25,13 @@ You can find more details in the latest version of [my CV](https://docs.google.c
 Also, you may be interested to see my [OrcID](https://orcid.org/0000-0001-9635-6770), [Google Scholar](https://scholar.google.com.tr/citations?user=WpVqsEkAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=16242267700), [IEEE Collabratec](https://ieee-collabratec.ieee.org/app/p/sblisesivdin) and [Publons](https://publons.com/researcher/A-9748-2008) pages.
 
 ## Some links
-- [LRG](https://lrgresearch.org) - Low-Dimensional Materials and Systems Research Group.
+- [LRG](https://avesis.gazi.edu.tr/arastirma-grubu/lrg/) - Low-Dimensional Materials and Systems Research Group.
 - [gpaw-tools](http://www.lrgresearch.org/gpaw-tools/) - Collection of Python scripts that use ASE and GPAW for performing Density Functional Theory (DFT) calculations. I am the lead developer.
 - [Aestimo 1D](https://aestimosolver.github.io/aestimo/) - Aestimo is a one-dimensional (1D) self-consistent Schrödinger-Poisson solver for semiconductor heterostructures. I am one of the main developers.
-- [Biscuit](https://sblisesivdin.github.io/biscuit/)- Biscuit is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. I am the maintainer of this theme.
+- [Biscuit](https://sblisesivdin.github.io/biscuit/)—Biscuit is a single-page responsive Jekyll theme. It is the most simple yet good-looking Jekyll theme you can find. I maintain it.
+- [FQM](https://github.com/sblisesivdin/Folder-Queue-Manager) - A simple software for ad-hoc Directory Monitoring, command executing, and folder copying/moving software for small tasks.
 
 ## Contact
 This website is [https://sblisesivdin.github.io/](https://sblisesivdin.github.io/). 
 
-I'd be happy to work on new collaborations. Please send me an email (sblisesivdin-AT-gazi.edu.tr OR bora-AT-gazi.edu.tr). I am not an active user of social media. However, I have a [LinkedIn account](https://www.linkedin.com/in/sblisesivdin).
+I'd be happy to collaborate on new projects. Please send me an email (sblisesivdin-AT-gazi.edu.tr OR bora-AT-gazi.edu.tr). I am not an active social media user, but I have a [LinkedIn account](https://www.linkedin.com/in/sblisesivdin).
