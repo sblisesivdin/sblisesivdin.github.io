@@ -2,8 +2,8 @@
 title: Sefer Bora Lisesivdin
 tag_text: Homepage of Dr. Sefer Bora Lisesivdin
 description: Professor of Physics, PhD, SMIEEE
-baseurl: "/bora" # the subpath of your site, e.g. /blog
-url: "https://lrgresearch.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://sblisesivdin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 plugins:
   - jekyll-seo-tag
