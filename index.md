@@ -31,6 +31,6 @@ Also, you may be interested to see my [OrcID](https://orcid.org/0000-0001-9635-6
 - [Biscuit](https://sblisesivdin.github.io/biscuit/)- Biscuit is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. I am the maintainer of this theme.
 
 ## Contact
-This website is [https://lrgresearch.org/bora](https://www.lrgresearch.org/bora/). 
+This website is [https://sblisesivdin.github.io/](https://sblisesivdin.github.io/). 
 
-I'd be happy to work on new collaborations. Please send me an email (sblisesivdin-AT-gazi.edu.tr OR bora-AT-gazi.edu.tr). I am not an active user of social media. However, I have a [LinkedIn account](https://www.linkedin.com/in/sblisesivdin). If you want to collaborate on a code, view my [GitHub account](https://github.com/sblisesivdin).
+I'd be happy to work on new collaborations. Please send me an email (sblisesivdin-AT-gazi.edu.tr OR bora-AT-gazi.edu.tr). I am not an active user of social media. However, I have a [LinkedIn account](https://www.linkedin.com/in/sblisesivdin).
