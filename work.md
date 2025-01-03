@@ -2,11 +2,11 @@
 layout: default
 ---
 
+[Home](index.md) | [Work](work.md) | [Codes](codes.md)| [News](news.md) | [Contact](contact.md)
+
 ![SBL](assets/topbanner2024.jpg)
 
 **Sefer Bora Lişesivdin**, Professor of Physics, PhD, SMIEEE
-
-[Home](index.md) | [Work](work.md) | [Codes](codes.md)| [News](news.md) | [Contact](contact.md)
 
 ## Work
 Presently, I am working as a faculty member at [Gazi University](https://www.gazi.edu.tr) [Department of Physics](https://fizik.gazi.edu.tr/). I am the head of the sub-department of Condensed Matter Physics. In addition, I am the principal investigator of [Low-Dimensional Materials and Systems Research Group](https://avesis.gazi.edu.tr/arastirma-grubu/lrg/), where we work on experimental and computational investigations of low-dimensional or bulk systems with defects and impurities. 
