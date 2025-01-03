@@ -15,3 +15,5 @@ I'm living in Ankara, Türkiye. I am married and a father of a lovely boy. You c
 
 For a detailed work-based homesite, you can prefer [my homepage at Gazi University](https://avesis.gazi.edu.tr/bora). 
 
+Or maybe you are just looking for the latest version of **[my CV](https://docs.google.com/document/d/17ETxplWt5YEW4qO2rn3N9UFrbDlAp61TotbXeOxZV1g/edit?usp=sharing)**.
+
