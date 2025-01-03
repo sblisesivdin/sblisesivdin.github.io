@@ -6,6 +6,8 @@ layout: default
 
 **Sefer Bora Lişesivdin**, Professor of Physics, PhD, SMIEEE
 
+[Home](index.md) | [News](news.md)
+
 ## About
 I'm a physics engineer academic with over twenty years of experience.
 
