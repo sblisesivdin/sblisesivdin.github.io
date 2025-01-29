@@ -9,4 +9,9 @@ layout: default
 **Sefer Bora Lişesivdin**, Professor of Physics, PhD, SMIEEE
 
 ## News
-This will be a future news page.
+
+### January 2025
+
+* A new article ["Investigation of Spin-Polarized Electronic States of CBVN Defects in h-BN Monolayers"](https://doi.org/10.1016/j.ssc.2025.115855) is published in Solid State Communications.
+
+News before 2025 will be added in the future.
