@@ -4,7 +4,7 @@ layout: default
 
 [Home](index.md) | [Work](work.md) | [Codes](codes.md)| [News](news.md) | [Contact](contact.md)
 
-![SBL](assets/topbanner2024.jpg)
+![SBL](assets/topbanner2021.png)
 
 **Sefer Bora Lişesivdin**, Professor of Physics, PhD, SMIEEE
 
