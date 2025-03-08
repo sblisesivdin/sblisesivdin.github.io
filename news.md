@@ -28,5 +28,14 @@ layout: default
 * gpaw-tools version 22.5.0 is released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (May 8, 2022).
 * Gazi University accepts our new project CuOxMIST: Ga2O3/Cu2O p-n junction production and related computational studies with p-type Cu2O semiconductor thin films grown by Mist-CVD" (Apr 24, 2022).
 * gpaw-tools version 22.5.0 is released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (Apr 7, 2022).
+* gpaw-tools version 22.3.0 is released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (Mar 4, 2022).
+* A new article ["A Structural Analysis of Ultrathin Barrier (In)AlN/GaN Heterostructures for GaN‐based High‐frequency Power Electronics"](https://doi.org/10.1002/sia.7067) is published in Surf. Interface Anal. (Jan 9, 2022).
+* A new article ["gpaw-tools–higher-level user interaction scripts for GPAW calculations and interatomic potential based structure optimization"](https://doi.org/10.1016/j.commatsci.2022.111201) is published in Comput. Mater. Sci. (Jan 7, 2022).
+* gpaw-tools version 21.12.0 is released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (Dec 2, 2021).
+* gpaw-tools version 21.11.0 is released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (Nov 2, 2021).
+* gpaw-tools version 21.10.0 is released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (Oct 1, 2021).
+* Prof. Lisesivdin and Assoc. Prof. Sarıkavak-Lisesivdin developed UI/GUI Python scripts for GPAW users, called *gpaw-tools*. It is open-source and available on [GitHub](https://sblisesivdin.github.io/gpaw-tools) (Sep 14, 2021).
+* A new article, ["A novel hot carrier-induced blue light-emitting device"](https://doi.org/10.1016/j.jallcom.2021.160511), is published in Journal of Alloys and Compounds (May 20, 2021).
+* A new article ["Effect of magnesium content and growth temperature on structural and optical properties of USCVD-grown MgZnO films"](https://doi.org/10.1007/s00339-021-04507-8) is published in Applied Physics A (Apr 23, 2021).
 
-*News before 2022 will be added in the future.*
+*News before 2021 will be added in the future.*
