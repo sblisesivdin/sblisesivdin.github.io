@@ -6,11 +6,11 @@ layout: default
 
 ![SBL](assets/topbanner2024.png)
 
-![SBL](assets/title.png)
+**Sefer Bora Lişesivdin**, Professor of Physics, PhD, SMIEEE
 
 ## Home
 
-You can find more information about work, code, news, and contact information in this website.
+You can find more information about work, code, news, and contact information on this website.
 
 For a detailed work-based homesite, you can prefer [the homepage at Gazi University](https://avesis.gazi.edu.tr/bora). 
 
