@@ -6,7 +6,7 @@ layout: default
 
 ![SBL](assets/topbanner2024.png)
 
-**Sefer Bora Lişesivdin**, Professor of Physics, PhD, SMIEEE
+![SBL](assets/title.png)
 
 ## Home
 
