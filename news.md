@@ -36,8 +36,11 @@ layout: default
 * gpaw-tools version 21.12.0 is released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (Dec 2, 2021).
 * gpaw-tools version 21.11.0 is released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (Nov 2, 2021).
 * gpaw-tools version 21.10.0 is released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (Oct 1, 2021).
-* Prof. Lisesivdin and Assoc. Prof. Sarıkavak-Lisesivdin developed UI/GUI Python scripts for GPAW users, called *gpaw-tools*. It is open-source and available on [GitHub](https://sblisesivdin.github.io/gpaw-tools) (Sep 14, 2021).
+* I and Assoc. Prof. Sarıkavak-Lisesivdin developed UI/GUI Python scripts for GPAW users, called *gpaw-tools*. It is open-source and available on [GitHub](https://sblisesivdin.github.io/gpaw-tools) (Sep 14, 2021).
 * A new article, ["A novel hot carrier-induced blue light-emitting device"](https://doi.org/10.1016/j.jallcom.2021.160511), is published in Journal of Alloys and Compounds (May 20, 2021).
 * A new article ["Effect of magnesium content and growth temperature on structural and optical properties of USCVD-grown MgZnO films"](https://doi.org/10.1007/s00339-021-04507-8) is published in Applied Physics A (Apr 23, 2021).
+* A new article "[The effect of barrier layers on 2D electron effective mass in Al0.3Ga0.7N/AlN/GaN heterostructures](https://doi.org/10.1088/1361-648X/abf8d2)", which is a  joint study between Gazi University, Eskisehir Technical University, Rzhanov Institute of Semiconductor Physics, and Novosibirsk State University, is published in J. Phys.: Condens. Matt. (Apr 16, 2021).
+* A new article "[Growth dynamics of mist-CVD grown ZnO nanoplatelets](https://doi.org/10.1016/j.physb.2021.413028)", which is a result of our D.E.H.A Project is published in Physica B: Condensed Matter. (Mar 28, 2021)
+* The Rector of Gazi University, Prof. Dr. Musa Yıldız, came together with the faculty members who contributed the most to our University with the TÜBİTAK and ERASMUS+ projects they carried out in the 2016-2020 period. I have received a certificate of appreciation because of my contributions to our university with the projects I carried out (Feb 16, 2021).
 
-*News before 2021 will be added in the future.*
+*News before 2020 will be added in the future.*
