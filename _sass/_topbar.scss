@@ -1,0 +1,35 @@
+/* _sass/_topbar.scss
+
+/* Width */
+:root { --max: 80ch; --g: 1rem; --bar-h: 56px; }
+main, .container, .wrap, .inner {
+  width: min(100% - 2*var(--g), var(--max));
+  margin-inline: auto;
+}
+
+/* Upper link bar*/
+.topbar {
+  position: sticky; top: 0; z-index: 10;
+  background: #fff; border-bottom: 1px solid #eaeaea;
+  backdrop-filter: saturate(180%) blur(8px);
+}
+.topbar .container {
+  display: flex; align-items: center; justify-content: center;
+  flex-wrap: wrap; gap: .5rem; min-height: var(--bar-h);
+  padding: .25rem 0;
+}
+.topbar a {
+  text-decoration: none; color: #333; font-weight: 500;
+  padding: .4rem .75rem; border-radius: .5rem;
+  transition: background .2s ease, color .2s ease;
+}
+.topbar a:hover, .topbar a:focus { background: #f5f5f5; color: #000; }
+.topbar a.is-active { background: #f2f2f2; font-weight: 600; }
+
+/* For small screens */
+@media (max-width: 720px) {
+  .topbar .container { justify-content: space-around; gap: .25rem; }
+  .topbar a { flex: 1 1 auto; text-align: center; font-size: .95rem; padding: .5rem 0; }
+}
+
+h1, h2, h3, section { scroll-margin-top: calc(var(--bar-h) + 12px); }
