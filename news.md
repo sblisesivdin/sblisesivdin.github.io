@@ -8,9 +8,10 @@ layout: default
 
 ## News
 
+* gpaw-tools is now [Nanoworks!](https://nanoworks.readthedocs.io/). Nanoworks is a unified, high-level Python interface for conducting Density Functional Theory (DFT), Molecular Dynamics (MD), and Machine Learning (ML) potential calculations. Nanoworks version 26.2.0 is released with this new vision. [Visit site](https://nanoworks.readthedocs.io/) (Feb 2, 2026).
 * gpaw-tools version 25.10.0 released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (Oct 1, 2025).
 * gpaw-tools version 25.4.0 released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (Apr 18, 2025).
-* I am closing the 𝓵𝓻𝓰𝓻𝓮𝓼𝓮𝓪𝓻𝓬𝓱.𝓸𝓻𝓰, which was a home for the last 10 years to our research group. Because our research group became a research laboratory, it has had its own [institutional website](https://avesis.gazi.edu.tr/arastirma-grubu/lrg/) for a while. There were also other websites under this domain. Necessary websites under this domain are moved elsewhere (Feb 25, 2025).
+* I am closing the 𝓵𝓻𝓰𝓻𝓮𝓼𝓮𝓪𝓻𝓬𝓱.𝓸𝓻𝓰, which was a home for the last 10 years to our research group. Since our research group became a research laboratory, it has had its own [institutional website](https://avesis.gazi.edu.tr/arastirma-grubu/lrg/) for some time. There were also other websites under this domain. Necessary websites under this domain are moved elsewhere (Feb 25, 2025).
 * gpaw-tools version 25.2.1 released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (Feb 3, 2025).
 * A new article ["Investigation of Spin-Polarized Electronic States of CBVN Defects in h-BN Monolayers"](https://doi.org/10.1016/j.ssc.2025.115855) is published in Solid State Communications (Jan 29, 2025).
 * gpaw-tools version 24.6.1 released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (Jun 10, 2024).
