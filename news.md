@@ -8,6 +8,7 @@ layout: default
 
 ## News
 
+* Nanoworks version 26.3.1 released. [Visit site](https://nanoworks.readthedocs.io/) (Mar 23, 2026).
 * gpaw-tools is now [Nanoworks!](https://nanoworks.readthedocs.io/). Nanoworks is a unified, high-level Python interface for conducting Density Functional Theory (DFT), Molecular Dynamics (MD), and Machine Learning (ML) potential calculations. Nanoworks version 26.2.0 is released with this new vision. [Visit site](https://nanoworks.readthedocs.io/) (Feb 2, 2026).
 * gpaw-tools version 25.10.0 released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (Oct 1, 2025).
 * gpaw-tools version 25.4.0 released. [Visit site](https://sblisesivdin.github.io/gpaw-tools) (Apr 18, 2025).
