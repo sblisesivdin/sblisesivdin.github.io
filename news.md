@@ -8,6 +8,7 @@ layout: default
 
 ## News
 
+* A new article ["A computational framework for rendering sRGB color from physical light spectra"](https://joam.inoe.ro/articles/a-computational-framework-for-rendering-srgb-color-from-physical-light-spectra/) is published in Journal of Optoelectronics and Advanced Materials (Jun 2, 2026).
 * A new article ["Temperature controlled phase transition and characterization of Cu2O and CuO thin films grown at different growth temperatures via mist CVD"](https://doi.org/10.1007/s00339-026-09555-6) is published in Applied Physics A (Apr 6, 2026).
 * Nanoworks version 26.3.1 released. [Visit site](https://nanoworks.readthedocs.io/) (Mar 23, 2026).
 * gpaw-tools is now [Nanoworks!](https://nanoworks.readthedocs.io/). Nanoworks is a unified, high-level Python interface for conducting Density Functional Theory (DFT), Molecular Dynamics (MD), and Machine Learning (ML) potential calculations. Nanoworks version 26.2.0 is released with this new vision. [Visit site](https://nanoworks.readthedocs.io/) (Feb 2, 2026).
