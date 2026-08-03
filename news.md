@@ -8,6 +8,7 @@ layout: default
 
 ## News
 
+* Nanoworks version 26.8.0 released. [Visit site](https://nanoworks.readthedocs.io/) (Aug 3, 2026).
 * A new article ["Nanoworks: A multi-scale python-based orchestrator for materials science simulations"](https://doi.org/10.1016/j.cocom.2026.e01362) is published in Computational Condensed Matter (Jun 9, 2026).
 * A new article ["A computational framework for rendering sRGB color from physical light spectra"](https://joam.inoe.ro/articles/a-computational-framework-for-rendering-srgb-color-from-physical-light-spectra/) is published in Journal of Optoelectronics and Advanced Materials (Jun 2, 2026).
 * A new article ["Temperature controlled phase transition and characterization of Cu2O and CuO thin films grown at different growth temperatures via mist CVD"](https://doi.org/10.1007/s00339-026-09555-6) is published in Applied Physics A (Apr 6, 2026).
