@@ -1,18 +1,29 @@
-# Biscuit theme for Jekyll
+# Sefer Bora Lisesivdin — Academic Website
 
-[Biscuit](http://sblisesivdin.github.io/biscuit) is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find.
+This repository contains the source files for the personal academic website of
+[Sefer Bora Lisesivdin](https://sblisesivdin.github.io/), Professor of Physics at
+Gazi University.
 
-## Usage
+The website provides a concise overview of academic work, open-source scientific
+software, recent news, and contact information. Detailed and institutionally
+maintained records of publications, projects, activities, and achievements are
+available through the linked Gazi University AVESIS profile.
 
-You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
-For local usage just download [Jekyll](http://jekyllrb.com/), use installation guide for more. You can download latest Stator from [its Github repository](https://github.com/sblisesivdin/biscuit).
+## Website sections
 
-If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc, just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
+- **Home:** Short biography and curriculum vitae
+- **Work:** Research profile and links to institutional academic records
+- **Codes:** Scientific software and open-source projects
+- **News:** Publications, software releases, projects, and other updates
+- **Contact:** Contact and collaboration information
+
+## Technical information
+
+The site is built with [Jekyll](https://jekyllrb.com/) and published through
+[GitHub Pages](https://pages.github.com/) from the `gh-pages` branch. It uses
+[Biscuit](https://sblisesivdin.github.io/biscuit/), a lightweight responsive
+Jekyll theme maintained by Sefer Bora Lisesivdin.
 
 ## License
 
-Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
-
-Biscuit and [the previous code](http://github.com/chibicode/solo) where Biscuit is derived are distributed with MIT license.
-
-
+See [LICENSE](LICENSE) for licensing information.
