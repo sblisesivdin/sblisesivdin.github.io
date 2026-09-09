@@ -12,7 +12,7 @@ You can find more information about work, code, news, and contact information on
 
 For a detailed work-based homesite, you can prefer [the homepage at Gazi University](https://avesis.gazi.edu.tr/bora). 
 
-Or maybe you are just looking for the latest version of **[his CV](https://docs.google.com/document/d/17ETxplWt5YEW4qO2rn3N9UFrbDlAp61TotbXeOxZV1g/edit?usp=sharing)**.
+Or maybe you are just looking for the latest version of **[his CV](https://docs.google.com/document/d/17ETxplWt5YEW4qO2rn3N9UFrbDlAp61TotbXeOxZV1g/view?usp=sharing)**.
 
 ## Biography
 
